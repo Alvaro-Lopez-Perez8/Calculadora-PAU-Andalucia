@@ -1,0 +1,247 @@
+Alemán	Francés	Inglés
+
+Latín II	Matemáticas Aplicadas a las CCSS	Matemáticas II
+
+Biología	Dibujo Técnico II	Empresa y Diseño de Modelos de Negocio (Economía)	Física	Geografía	Latín II	Matemáticas Aplicadas a las CCSS	Matemáticas II	Química	Segunda Lengua Extranjera	Tecnología e Ingeniería II
+
+Administración y Dirección de Empresas	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.2	0.0	0.0	0.0
+Administración y Dirección de Empresas + Derecho	0.0	0.0	0.2	0.0	0.2	0.2	0.2	0.2	0.0	0.0	0.0
+Administración y Dirección de Empresas + Economía	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.2	0.0	0.0	0.0
+Administración y Dirección de Empresas + Finanzas y Contabilidad	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.2	0.0	0.0	0.0
+Administración y Dirección de Empresas + Turismo	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.2	0.0	0.2	0.0
+Análisis Económico	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.2	0.0	0.0	0.0
+Antropología Social y Cultural	0.1	0.0	0.1	0.0	0.2	0.1	0.2	0.0	0.0	0.0	0.0
+Arqueología	0.0	0.0	0.1	0.0	0.2	0.2	0.1	0.0	0.0	0.1	0.0
+Arquitectura Naval e Ingeniería Marítima	0.1	0.2	0.0	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Bellas Artes	0.0	0.0	0.1	0.0	0.1	0.2	0.1	0.0	0.0	0.0	0.0
+Biología	0.2	0.1	0.0	0.2	0.0	0.0	0.2	0.2	0.2	0.0	0.2
+Biomedicina Básica y Experimental	0.2	0.1	0.0	0.1	0.0	0.0	0.2	0.2	0.2	0.0	0.1
+Bioquímica	0.2	0.1	0.0	0.2	0.0	0.0	0.2	0.2	0.2	0.0	0.2
+Biotecnología	0.2	0.1	0.0	0.2	0.0	0.0	0.2	0.2	0.2	0.0	0.2
+Ciberseguridad e Inteligencia Artificial	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ciencia de Datos e Inteligencia Artificial	0.1	0.2	0.0	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.1
+Ciencia y Tecnología de los Alimentos	0.2	0.1	0.0	0.2	0.0	0.0	0.2	0.2	0.2	0.0	0.2
+Ciencias Ambientales	0.2	0.1	0.0	0.2	0.0	0.0	0.2	0.2	0.2	0.0	0.2
+Ciencias Ambientales + Ciencias del Mar	0.2	0.1	0.0	0.2	0.0	0.0	0.2	0.2	0.2	0.0	0.2
+Ciencias Ambientales + Geografía e Historia	0.2	0.1	0.1	0.2	0.2	0.2	0.2	0.2	0.2	0.1	0.2
+Ciencias Ambientales + Ingeniería Forestal y del Medio Natural	0.2	0.2	0.1	0.2	0.0	0.0	0.2	0.2	0.2	0.0	0.2
+Ciencias de la Actividad Física y del Deporte	0.2	0.0	0.2	0.2	0.1	0.0	0.2	0.1	0.2	0.0	0.2
+Ciencias del Mar	0.2	0.1	0.0	0.2	0.0	0.0	0.2	0.2	0.2	0.0	0.2
+Ciencias del Mar + Ciencias Ambientales	0.2	0.1	0.0	0.2	0.0	0.0	0.2	0.2	0.2	0.0	0.2
+Ciencias Gastronómicas y Gestión Hotelera	0.2	0.0	0.2	0.1	0.2	0.1	0.2	0.1	0.2	0.2	0.1
+Ciencias Políticas y de la Administración	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.0	0.0	0.0	0.0
+Ciencias Políticas y de la Administración + Administración y Dirección de Empresas	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.2	0.0	0.0	0.0
+Ciencias Políticas y de la Administración + Periodismo	0.0	0.0	0.2	0.0	0.2	0.2	0.2	0.0	0.0	0.1	0.0
+Ciencias Políticas y de la Administración + Sociología	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.0	0.0	0.0	0.0
+Cine y Cultura	0.0	0.0	0.0	0.0	0.2	0.2	0.0	0.0	0.0	0.2	0.0
+Comunicación	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.0	0.0	0.1	0.0
+Comunicación + Comunicación Digital	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.0	0.0	0.1	0.0
+Comunicación Audiovisual	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.0	0.0	0.1	0.0
+Comunicación Digital	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.0	0.0	0.1	0.0
+Conservación y Restauración de Bienes Culturales	0.0	0.0	0.1	0.0	0.1	0.2	0.1	0.0	0.0	0.0	0.0
+Criminología	0.2	0.0	0.2	0.0	0.2	0.1	0.2	0.0	0.1	0.0	0.0
+Criminología + Psicología	0.2	0.1	0.2	0.1	0.2	0.1	0.2	0.2	0.2	0.0	0.1
+Criminología y Seguridad	0.2	0.0	0.2	0.0	0.2	0.1	0.2	0.0	0.1	0.0	0.0
+Derecho	0.0	0.0	0.2	0.0	0.2	0.2	0.2	0.0	0.0	0.0	0.0
+Derecho + Ciencias Políticas y de la Administración	0.0	0.0	0.2	0.0	0.2	0.2	0.2	0.0	0.0	0.0	0.0
+Derecho + Criminología	0.2	0.0	0.2	0.0	0.2	0.2	0.2	0.0	0.1	0.0	0.0
+Derecho + Criminología y Seguridad	0.2	0.0	0.2	0.0	0.2	0.2	0.2	0.0	0.1	0.0	0.0
+Derecho + Economía	0.0	0.0	0.2	0.0	0.2	0.2	0.2	0.2	0.0	0.0	0.0
+Derecho + Filosofía	0.0	0.0	0.2	0.0	0.2	0.2	0.2	0.0	0.0	0.1	0.0
+Derecho + Finanzas y Contabilidad	0.0	0.0	0.2	0.0	0.2	0.2	0.2	0.2	0.0	0.0	0.0
+Derecho + Gestión y Administración Pública	0.0	0.0	0.2	0.0	0.2	0.2	0.2	0.2	0.0	0.0	0.0
+Derecho + Laurea Magistrale in Giurisprudenza	0.0	0.0	0.2	0.0	0.2	0.2	0.2	0.0	0.0	0.0	0.0
+Derecho + Relaciones Laborales y Recursos Humanos	0.0	0.0	0.2	0.0	0.2	0.2	0.2	0.0	0.0	0.0	0.0
+Derecho Hispano-Alemán (Bachelor in Law)	0.0	0.0	0.2	0.0	0.2	0.2	0.2	0.0	0.0	0.2	0.0
+Diseño Gráfico y Creatividad Digital	0.0	0.1	0.0	0.0	0.0	0.1	0.1	0.0	0.0	0.0	0.1
+Economía	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.2	0.0	0.0	0.0
+Economía + Administración y Dirección de Empresas	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.2	0.0	0.0	0.0
+Edificación	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Edificación + Administración y Dirección de Empresas	0.1	0.2	0.2	0.2	0.2	0.1	0.2	0.2	0.2	0.0	0.2
+Educación Infantil	0.2	0.1	0.1	0.2	0.2	0.2	0.2	0.2	0.2	0.1	0.2
+Educación Infantil + Educación Primaria	0.2	0.1	0.1	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2
+Educación Primaria	0.2	0.1	0.1	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2
+Educación Primaria + Ciencias de la Actividad Física y del Deporte	0.2	0.1	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2
+Educación Primaria + Estudios Franceses	0.2	0.1	0.1	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2
+Educación Primaria + Estudios Ingleses	0.2	0.1	0.1	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2
+Educación Social	0.2	0.1	0.1	0.2	0.2	0.2	0.2	0.2	0.2	0.1	0.2
+Enfermería	0.2	0.1	0.0	0.1	0.0	0.0	0.2	0.2	0.2	0.0	0.1
+Enfermería + Fisioterapia	0.2	0.1	0.0	0.1	0.0	0.0	0.2	0.2	0.2	0.0	0.1
+Enología	0.2	0.1	0.0	0.2	0.0	0.0	0.2	0.2	0.2	0.0	0.2
+Enología + Ingeniería Agroalimentaria y del Medio Rural	0.2	0.2	0.1	0.2	0.0	0.0	0.2	0.2	0.2	0.0	0.2
+Estadística	0.1	0.1	0.2	0.2	0.0	0.0	0.2	0.2	0.1	0.0	0.2
+Estadística + Finanzas y Contabilidad	0.1	0.1	0.2	0.2	0.2	0.1	0.2	0.2	0.1	0.0	0.2
+Estadística y Empresa	0.0	0.0	0.2	0.0	0.2	0.0	0.2	0.2	0.0	0.0	0.0
+Estudios Árabes e Islámicos	0.0	0.0	0.1	0.0	0.1	0.2	0.0	0.0	0.0	0.2	0.0
+Estudios Árabes e Islámicos + Estudios Ingleses	0.0	0.0	0.1	0.0	0.1	0.2	0.0	0.0	0.0	0.2	0.0
+Estudios de Arquitectura	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Estudios de Asia Oriental	0.0	0.0	0.1	0.0	0.1	0.2	0.0	0.0	0.0	0.2	0.0
+Estudios Franceses	0.0	0.0	0.1	0.0	0.1	0.2	0.0	0.0	0.0	0.2	0.0
+Estudios Franceses + Estudios Ingleses	0.0	0.0	0.1	0.0	0.1	0.2	0.0	0.0	0.0	0.2	0.0
+Estudios Franceses + Filología Hispánica	0.0	0.0	0.1	0.0	0.1	0.2	0.0	0.0	0.0	0.2	0.0
+Estudios Ingleses	0.0	0.0	0.1	0.0	0.1	0.2	0.0	0.0	0.0	0.2	0.0
+Estudios Ingleses + Filología Hispánica	0.0	0.0	0.1	0.0	0.1	0.2	0.0	0.0	0.0	0.2	0.0
+Estudios Transculturales Europeos	0.0	0.0	0.1	0.0	0.1	0.2	0.0	0.0	0.0	0.2	0.0
+Farmacia	0.2	0.1	0.0	0.1	0.0	0.0	0.2	0.2	0.2	0.0	0.1
+Farmacia + Nutrición Humana y Dietética	0.2	0.1	0.0	0.1	0.0	0.0	0.2	0.2	0.2	0.0	0.1
+Farmacia + Óptica y Optometría	0.2	0.1	0.0	0.2	0.0	0.0	0.2	0.2	0.2	0.0	0.2
+Filología Clásica	0.0	0.0	0.1	0.0	0.1	0.2	0.0	0.0	0.0	0.2	0.0
+Filología Clásica + Estudios Ingleses	0.0	0.0	0.1	0.0	0.1	0.2	0.0	0.0	0.0	0.2	0.0
+Filología Clásica + Filología Hispánica	0.0	0.0	0.1	0.0	0.1	0.2	0.0	0.0	0.0	0.2	0.0
+Filología Hispánica	0.0	0.0	0.1	0.0	0.1	0.2	0.0	0.0	0.0	0.2	0.0
+Filología Hispánica + Estudios Ingleses	0.0	0.0	0.1	0.0	0.1	0.2	0.0	0.0	0.0	0.2	0.0
+Filosofía	0.0	0.0	0.1	0.0	0.1	0.2	0.0	0.0	0.0	0.1	0.0
+Finanzas y Contabilidad	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.2	0.0	0.0	0.0
+Finanzas y Contabilidad + Relaciones Laborales y Recursos Humanos	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.2	0.0	0.0	0.0
+Finanzas y Contabilidad + Turismo	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.2	0.0	0.2	0.0
+Finanzas, Contabilidad y Auditoría	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.2	0.0	0.0	0.0
+Física	0.2	0.1	0.0	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Física + Ingeniería de Materiales	0.2	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Física + Matemáticas	0.2	0.2	0.0	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Fisioterapia	0.2	0.1	0.0	0.1	0.0	0.0	0.2	0.2	0.2	0.0	0.1
+Fisioterapia + Ciencias de la Actividad Física y del Deporte	0.2	0.1	0.2	0.2	0.1	0.0	0.2	0.2	0.2	0.0	0.2
+Fundamentos de Arquitectura	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Geografía e Historia	0.0	0.0	0.1	0.0	0.2	0.2	0.1	0.0	0.0	0.1	0.0
+Geografía e Historia + Historia del Arte	0.0	0.0	0.1	0.0	0.2	0.2	0.1	0.0	0.0	0.1	0.0
+Geografía y Gestión del Territorio	0.1	0.0	0.2	0.0	0.2	0.1	0.1	0.0	0.1	0.0	0.0
+Geografía y Gestión del Territorio + Historia	0.1	0.0	0.2	0.0	0.2	0.2	0.1	0.0	0.1	0.1	0.0
+Geología	0.2	0.1	0.0	0.2	0.0	0.0	0.2	0.2	0.2	0.0	0.2
+Geología + Ciencias Ambientales	0.2	0.1	0.0	0.2	0.0	0.0	0.2	0.2	0.2	0.0	0.2
+Gestión Cultural	0.0	0.0	0.2	0.0	0.2	0.2	0.1	0.0	0.0	0.1	0.0
+Gestión y Administración Pública	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.2	0.0	0.0	0.0
+Historia	0.0	0.0	0.1	0.0	0.2	0.2	0.1	0.0	0.0	0.1	0.0
+Historia + Historia del Arte	0.0	0.0	0.1	0.0	0.2	0.2	0.1	0.0	0.0	0.1	0.0
+Historia + Humanidades	0.0	0.0	0.1	0.0	0.2	0.2	0.1	0.0	0.0	0.1	0.0
+Historia del Arte	0.0	0.0	0.1	0.0	0.2	0.2	0.1	0.0	0.0	0.1	0.0
+Historia y Ciencias de la Música	0.0	0.0	0.1	0.0	0.2	0.2	0.1	0.0	0.0	0.1	0.0
+Humanidades	0.0	0.0	0.1	0.0	0.2	0.2	0.1	0.0	0.0	0.1	0.0
+Humanidades + Traducción e Interpretación: Inglés	0.0	0.0	0.1	0.0	0.2	0.2	0.1	0.0	0.0	0.2	0.0
+Información y Documentación	0.0	0.0	0.2	0.0	0.2	0.2	0.1	0.0	0.0	0.0	0.0
+Ingeniería Aeroespacial	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Agrícola	0.2	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería Agrícola + Ciencias Ambientales	0.2	0.2	0.1	0.2	0.0	0.0	0.2	0.2	0.2	0.0	0.2
+Ingeniería Agroalimentaria y del Medio Rural	0.2	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería Biomédica	0.2	0.2	0.0	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería Civil	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Civil + Administración y Dirección de Empresas	0.1	0.2	0.2	0.2	0.2	0.1	0.2	0.2	0.1	0.0	0.2
+Ingeniería Civil + Ingeniería de Tecnologías Mineras	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería de Computadores	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería de Diseño Industrial y Desarrollo del Producto	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería de Energías Renovables y Tecnologías del Hidrógeno	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería de la Energía	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería de la Energía + Ingeniería de Tecnologías Mineras	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería de la Energía y Recursos Minerales	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería de la Energía y Recursos Minerales + Ingeniería Civil	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería de la Energía y Recursos Minerales + Ingeniería Eléctrica	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería de la Salud	0.2	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería de Materiales	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería de Organización Industrial	0.1	0.2	0.2	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería de Recursos Energéticos	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería de Recursos Energéticos + Ingeniería Química Industrial	0.2	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería de Sistemas de Telecomunicación	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería de Sistemas Electrónicos	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería de Sonido e Imagen	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería de Tecnologías de Telecomunicación	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería de Tecnologías de Telecomunicación + Matemáticas	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería de Tecnologías Mineras	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería del Software	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Eléctrica	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Eléctrica + Ingeniería de Energías Renovables y Tecnologías del Hidrógeno	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería Eléctrica + Ingeniería Electrónica Industrial	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Eléctrica + Ingeniería Mecánica	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Electrónica de Telecomunicación	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Electrónica Industrial	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Electrónica Industrial + Ingeniería Eléctrica	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Electrónica Industrial + Ingeniería Mecánica	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Electrónica Industrial y Automática	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Electrónica, Robótica y Mecatrónica	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería en Diseño Industrial y Desarrollo del Producto	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería en Diseño Industrial y Desarrollo del Producto + Ingeniería Mecánica	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería en Tecnologías Industriales	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Forestal	0.2	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería Forestal + Ingeniería Agroalimentaria y del Medio Rural	0.2	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería Forestal y del Medio Natural	0.2	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería Geomática y Topográfica	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Informática	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Informática + Administración y Dirección de Empresas	0.1	0.2	0.2	0.2	0.2	0.1	0.2	0.2	0.1	0.0	0.2
+Ingeniería Informática + Matemáticas	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Informática de Sistemas de Información	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Informática. Ingeniería de Computadores	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Informática. Ingeniería del Software	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Informática. Inteligencia Artificial	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Informática. Tecnología Informática	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Informática. Tecnología Informática + Matemáticas	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Informática: Mención en Ciencia de Datos	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Informática: Mención en Sistemas de Información	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Marina	0.2	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Mecánica	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Mecánica + Ingeniería de Organización Industrial	0.1	0.2	0.2	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería Mecánica + Ingeniería Eléctrica	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Mecánica + Ingeniería Electrónica Industrial y Automática	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Mecánica + Ingeniería en Diseño Industrial y Desarrollo del Producto	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Mecánica + Ingeniería Minera	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería Minera	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería Náutica y Transporte Marítimo	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Química	0.2	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería Química + Biotecnología	0.2	0.2	0.1	0.2	0.0	0.0	0.2	0.2	0.2	0.0	0.2
+Ingeniería Química Industrial	0.2	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Ingeniería Radioelectrónica	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Telemática	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Ingeniería Telemática + Ingeniería de Tecnologías de Telecomunicación	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Inteligencia Artificial y Ciberseguridad	0.1	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Lenguas Modernas y sus Literaturas	0.0	0.0	0.1	0.0	0.1	0.2	0.1	0.0	0.0	0.2	0.0
+Lenguas Modernas, Literaturas y Culturas	0.0	0.0	0.1	0.0	0.1	0.2	0.1	0.0	0.0	0.2	0.0
+Lenguas Modernas, Literaturas y Culturas + Educación Primaria	0.2	0.1	0.1	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.2
+Lingüística y Lenguas Aplicadas	0.0	0.0	0.1	0.0	0.1	0.2	0.1	0.0	0.0	0.2	0.0
+Lingüística y Lenguas Aplicadas + Estudios Ingleses	0.0	0.0	0.1	0.0	0.1	0.2	0.1	0.0	0.0	0.2	0.0
+Literaturas Comparadas	0.0	0.0	0.1	0.0	0.1	0.2	0.1	0.0	0.0	0.2	0.0
+Logopedia	0.2	0.1	0.0	0.1	0.0	0.0	0.2	0.2	0.2	0.0	0.0
+Márketing e Investigación de Mercados	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.2	0.0	0.0	0.0
+Márketing e Investigación de Mercados + Turismo	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.2	0.0	0.2	0.0
+Matemáticas	0.1	0.2	0.0	0.2	0.0	0.0	0.1	0.2	0.1	0.0	0.2
+Matemáticas + Economía	0.1	0.2	0.1	0.2	0.2	0.1	0.2	0.2	0.1	0.0	0.1
+Matemáticas + Estadística	0.1	0.2	0.2	0.2	0.0	0.0	0.2	0.2	0.1	0.0	0.2
+Matemáticas + Filosofía	0.1	0.2	0.1	0.2	0.2	0.2	0.1	0.2	0.1	0.1	0.2
+Matemáticas + Física	0.2	0.2	0.0	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Medicina	0.2	0.1	0.0	0.1	0.0	0.0	0.2	0.2	0.2	0.0	0.1
+Nutrición Humana y Dietética	0.2	0.1	0.0	0.1	0.0	0.0	0.2	0.2	0.2	0.0	0.1
+Nutrición Humana y Dietética + Ciencia y Tecnología de los Alimentos	0.2	0.1	0.0	0.2	0.0	0.0	0.2	0.2	0.2	0.0	0.2
+Odontología	0.2	0.1	0.0	0.1	0.0	0.0	0.2	0.2	0.2	0.0	0.1
+Óptica y Optometría	0.2	0.1	0.0	0.2	0.0	0.0	0.2	0.2	0.2	0.0	0.2
+Pedagogía	0.1	0.1	0.2	0.1	0.2	0.1	0.1	0.1	0.1	0.1	0.1
+Periodismo	0.0	0.0	0.2	0.0	0.2	0.2	0.1	0.0	0.0	0.1	0.0
+Periodismo + Comunicación Audiovisual	0.0	0.0	0.2	0.0	0.2	0.2	0.2	0.0	0.0	0.1	0.0
+Podología	0.2	0.1	0.0	0.1	0.0	0.0	0.2	0.2	0.2	0.0	0.1
+Psicología	0.2	0.1	0.2	0.1	0.2	0.0	0.2	0.2	0.2	0.0	0.1
+Psicología + Logopedia	0.2	0.1	0.2	0.1	0.2	0.0	0.2	0.2	0.2	0.0	0.1
+Publicidad y Relaciones Públicas	0.0	0.0	0.2	0.0	0.2	0.2	0.1	0.0	0.0	0.1	0.0
+Publicidad y Relaciones Públicas + Márketing e Investigación de Mercados	0.0	0.0	0.2	0.0	0.2	0.2	0.2	0.2	0.0	0.1	0.0
+Publicidad y Relaciones Públicas + Turismo	0.0	0.0	0.2	0.0	0.2	0.2	0.1	0.0	0.0	0.2	0.0
+Química	0.2	0.1	0.0	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Química + Enología	0.2	0.1	0.0	0.2	0.0	0.0	0.2	0.2	0.2	0.0	0.2
+Química + Ingeniería de Materiales	0.2	0.2	0.1	0.2	0.0	0.0	0.1	0.2	0.2	0.0	0.2
+Relaciones Internacionales	0.0	0.0	0.2	0.0	0.2	0.2	0.1	0.1	0.0	0.2	0.0
+Relaciones Internacionales + Ciencias Políticas y de la Administración	0.0	0.0	0.2	0.0	0.2	0.2	0.2	0.1	0.0	0.2	0.0
+Relaciones Internacionales + Derecho	0.0	0.0	0.2	0.0	0.2	0.2	0.2	0.1	0.0	0.2	0.0
+Relaciones Internacionales + Geografía e Historia	0.0	0.0	0.2	0.0	0.2	0.2	0.1	0.1	0.0	0.2	0.0
+Relaciones Internacionales + Traducción e Interpretación: Alemán	0.0	0.0	0.2	0.0	0.2	0.2	0.1	0.1	0.0	0.2	0.0
+Relaciones Internacionales + Traducción e Interpretación: Francés	0.0	0.0	0.2	0.0	0.2	0.2	0.1	0.1	0.0	0.2	0.0
+Relaciones Laborales y Recursos Humanos	0.0	0.0	0.2	0.0	0.2	0.1	0.1	0.0	0.0	0.0	0.0
+Sociología	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.0	0.0	0.0	0.0
+Terapia Ocupacional	0.2	0.1	0.0	0.1	0.0	0.0	0.2	0.2	0.2	0.0	0.1
+Trabajo Social	0.0	0.0	0.2	0.0	0.2	0.1	0.1	0.0	0.0	0.0	0.0
+Trabajo Social + Educación Social	0.2	0.1	0.2	0.2	0.2	0.2	0.2	0.2	0.2	0.1	0.2
+Trabajo Social + Sociología	0.0	0.0	0.2	0.0	0.2	0.1	0.2	0.0	0.0	0.0	0.0
+Traducción e Interpretación: Alemán	0.0	0.0	0.0	0.0	0.0	0.2	0.1	0.0	0.0	0.2	0.0
+Traducción e Interpretación: Alemán + Turismo	0.0	0.0	0.2	0.0	0.2	0.2	0.1	0.0	0.0	0.2	0.0
+Traducción e Interpretación: Árabe	0.0	0.0	0.0	0.0	0.0	0.2	0.1	0.0	0.0	0.2	0.0
+Traducción e Interpretación: Francés	0.0	0.0	0.0	0.0	0.0	0.2	0.1	0.0	0.0	0.2	0.0
+Traducción e Interpretación: Francés + Filología Hispánica	0.0	0.0	0.1	0.0	0.1	0.2	0.1	0.0	0.0	0.2	0.0
+Traducción e Interpretación: Francés + Turismo	0.0	0.0	0.2	0.0	0.2	0.2	0.1	0.0	0.0	0.2	0.0
+Traducción e Interpretación: Inglés	0.0	0.0	0.0	0.0	0.0	0.2	0.1	0.0	0.0	0.2	0.0
+Traducción e Interpretación: Inglés + Estudios Ingleses	0.0	0.0	0.1	0.0	0.1	0.2	0.1	0.0	0.0	0.2	0.0
+Traducción e Interpretación: Inglés + Filología Hispánica	0.0	0.0	0.1	0.0	0.1	0.2	0.1	0.0	0.0	0.2	0.0
+Traducción e Interpretación: Inglés + Turismo	0.0	0.0	0.2	0.0	0.2	0.2	0.1	0.0	0.0	0.2	0.0
+Turismo	0.0	0.0	0.2	0.0	0.2	0.1	0.1	0.0	0.0	0.2	0.0
+Turismo + Publicidad y Relaciones Públicas	0.0	0.0	0.2	0.0	0.2	0.2	0.1	0.0	0.0	0.2	0.0
+Veterinaria	0.2	0.1	0.0	0.1	0.0	0.0	0.2	0.2	0.2	0.0	0.1

@@ -1,0 +1,619 @@
+2025
+Administración y Dirección de Empresas	Almería	@	5.361
+Administración y Dirección de Empresas + Derecho	Almería	@	5.0
+Biotecnología	Almería	@	11.033
+Ciencias Ambientales	Almería	@	5.0
+Ciencias de la Actividad Física y del Deporte	Almería	@	10.687
+Derecho	Almería	@	7.387
+Derecho + Gestión y Administración Pública	Almería	@	7.329
+Economía	Almería	@	6.065
+Educación Infantil	Almería	@	5.28
+Educación Infantil + Educación Primaria	Almería	@	9.675
+Educación Primaria	Almería	@	7.92
+Educación Social	Almería	@	6.64
+Enfermería	Almería	@	12.006
+Estudios Ingleses	Almería	@	5.0
+Estudios Ingleses + Filología Hispánica	Almería	@	5.0
+Filología Hispánica	Almería	@	5.0
+Finanzas y Contabilidad	Almería	@	5.0
+Física	Almería	@	5.0
+Fisioterapia	Almería	@	11.33
+Gestión y Administración Pública	Almería	@	5.0
+Historia	Almería	@	5.0
+Historia + Humanidades	Almería	@	5.0
+Humanidades	Almería	@	5.0
+Ingeniería Agrícola	Almería	@	5.0
+Ingeniería Eléctrica	Almería	@	5.0
+Ingeniería Electrónica Industrial y Automática	Almería	@	5.0
+Ingeniería Informática	Almería	@	8.25
+Ingeniería Mecánica	Almería	@	6.458
+Ingeniería Mecánica + Ingeniería Electrónica Industrial y Automática	Almería	@	11.719
+Ingeniería Química Industrial	Almería	@	5.0
+Inteligencia Artificial y Ciberseguridad	Almería	@	10.607
+Márketing e Investigación de Mercados	Almería	@	7.142
+Matemáticas	Almería	@	11.312
+Matemáticas + Economía	Almería	@	10.774
+Medicina	Almería	@	13.069
+Psicología	Almería	@	9.123
+Química	Almería	@	5.0
+Relaciones Laborales y Recursos Humanos	Almería	@	5.0
+Trabajo Social	Almería	@	6.516
+Turismo	Almería	@	5.0
+Administración y Dirección de Empresas	Cádiz	Algeciras	5.0
+Administración y Dirección de Empresas	Cádiz	@	5.0
+Administración y Dirección de Empresas	Cádiz	Jerez	5.469
+Administración y Dirección de Empresas + Derecho	Cádiz	Jerez	5.0
+Administración y Dirección de Empresas + Finanzas y Contabilidad	Cádiz	@	5.0
+Arquitectura Naval e Ingeniería Marítima	Cádiz	@	7.361
+Biotecnología	Cádiz	@	11.382
+Ciencias Ambientales	Cádiz	@	5.0
+Ciencias Ambientales + Ciencias del Mar	Cádiz	@	5.0
+Ciencias de la Actividad Física y del Deporte	Cádiz	@	11.106
+Ciencias del Mar	Cádiz	@	5.0
+Ciencias del Mar + Ciencias Ambientales	Cádiz	@	6.0
+Criminología y Seguridad	Cádiz	@	8.437
+Derecho	Cádiz	@	7.949
+Derecho	Cádiz	Algeciras	6.902
+Derecho + Criminología y Seguridad	Cádiz	@	8.911
+Derecho + Relaciones Laborales y Recursos Humanos	Cádiz	Algeciras	5.0
+Educación Infantil	Cádiz	La Línea	5.0
+Educación Infantil	Cádiz	@	8.31
+Educación Primaria	Cádiz	@	8.77
+Educación Primaria	Cádiz	La Línea	5.0
+Enfermería	Cádiz	@	12.089
+Enfermería	Cádiz	Algeciras	11.51
+Enfermería	Cádiz	Jerez	12.09
+Enfermería	Cádiz	Salus Infirmorum	11.237
+Enología	Cádiz	@	5.0
+Estudios Árabes e Islámicos	Cádiz	@	5.0
+Estudios Árabes e Islámicos + Estudios Ingleses	Cádiz	@	5.0
+Estudios Franceses	Cádiz	@	5.0
+Estudios Franceses + Estudios Ingleses	Cádiz	@	9.772
+Estudios Ingleses	Cádiz	@	7.568
+Filología Clásica	Cádiz	@	5.0
+Filología Clásica + Estudios Ingleses	Cádiz	@	7.03
+Filología Hispánica	Cádiz	@	5.0
+Filología Hispánica + Estudios Ingleses	Cádiz	@	11.352
+Finanzas y Contabilidad	Cádiz	@	5.0
+Finanzas y Contabilidad + Relaciones Laborales y Recursos Humanos	Cádiz	@	5.0
+Fisioterapia	Cádiz	@	11.692
+Gestión y Administración Pública	Cádiz	Jerez	5.0
+Historia	Cádiz	@	5.0
+Humanidades	Cádiz	@	5.0
+Ingeniería Aeroespacial	Cádiz	@	12.471
+Ingeniería Civil	Cádiz	Algeciras	5.0
+Ingeniería Eléctrica	Cádiz	Algeciras	5.0
+Ingeniería Eléctrica	Cádiz	@	7.339
+Ingeniería Eléctrica + Ingeniería Electrónica Industrial	Cádiz	@	7.281
+Ingeniería Electrónica Industrial	Cádiz	Algeciras	5.0
+Ingeniería Electrónica Industrial	Cádiz	@	7.431
+Ingeniería en Diseño Industrial y Desarrollo del Producto	Cádiz	@	9.125
+Ingeniería en Tecnologías Industriales	Cádiz	@	9.453
+Ingeniería en Tecnologías Industriales	Cádiz	Algeciras	5.0
+Ingeniería Informática	Cádiz	@	10.184
+Ingeniería Mecánica	Cádiz	Algeciras	5.0
+Ingeniería Mecánica	Cádiz	@	10.419
+Ingeniería Mecánica + Ingeniería Eléctrica	Cádiz	@	10.77
+Ingeniería Mecánica + Ingeniería en Diseño Industrial y Desarrollo del Producto	Cádiz	@	11.595
+Ingeniería Química	Cádiz	@	7.038
+Ingeniería Química + Biotecnología	Cádiz	@	11.159
+Ingeniería Radioelectrónica	Cádiz	@	5.0
+Lingüística y Lenguas Aplicadas	Cádiz	@	5.0
+Lingüística y Lenguas Aplicadas + Estudios Ingleses	Cádiz	@	10.368
+Ingeniería Marina	Cádiz	@	5.0
+Márketing e Investigación de Mercados	Cádiz	Jerez	5.0
+Márketing e Investigación de Mercados + Turismo	Cádiz	Jerez	5.0
+Matemáticas	Cádiz	@	11.494
+Ingeniería Informática + Matemáticas	Cádiz	@	12.857
+Medicina	Cádiz	@	13.157
+Ingeniería Náutica y Transporte Marítimo	Cádiz	@	6.73
+Psicología	Cádiz	@	11.19
+Publicidad y Relaciones Públicas	Cádiz	Jerez	7.62
+Publicidad y Relaciones Públicas + Márketing e Investigación de Mercados	Cádiz	Jerez	9.873
+Publicidad y Relaciones Públicas + Turismo	Cádiz	Jerez	6.016
+Química	Cádiz	@	7.053
+Química + Enología	Cádiz	@	6.952
+Relaciones Laborales y Recursos Humanos	Cádiz	@	5.0
+Relaciones Laborales y Recursos Humanos	Cádiz	Algeciras	5.0
+Trabajo Social	Cádiz	Jerez	7.697
+Turismo	Cádiz	Jerez	5.0
+Administración y Dirección de Empresas	Córdoba	@	7.772
+Administración y Dirección de Empresas + Derecho	Córdoba	@	6.64
+Biología	Córdoba	@	5.0
+Bioquímica	Córdoba	@	10.311
+Biotecnología	Córdoba	@	11.27
+Ciencia y Tecnología de los Alimentos	Córdoba	@	5.0
+Ciencias Ambientales	Córdoba	@	5.0
+Cine y Cultura	Córdoba	@	5.0
+Cine y Cultura	Córdoba	No presencial	5.0
+Derecho	Córdoba	@	6.975
+Educación Infantil	Córdoba	Sagrado Corazón	5.0
+Educación Infantil	Córdoba	@	7.143
+Educación Primaria	Córdoba	@	7.62
+Educación Primaria	Córdoba	Sagrado Corazón	5.0
+Educación Primaria	Córdoba	Bilingüe	6.833
+Educación Primaria + Estudios Ingleses	Córdoba	Bilingüe	7.038
+Educación Social	Córdoba	@	8.23
+Enfermería	Córdoba	@	12.317
+Enología	Córdoba	@	5.0
+Enología + Ingeniería Agroalimentaria y del Medio Rural	Córdoba	@	5.0
+Estudios Ingleses	Córdoba	@	5.0
+Filología Hispánica	Córdoba	@	5.0
+Física	Córdoba	@	8.82
+Fisioterapia	Córdoba	@	11.576
+Fisioterapia	Córdoba	FISIDEC	5.589
+Gestión Cultural	Córdoba	@	5.0
+Historia	Córdoba	@	5.0
+Historia + Historia del Arte	Córdoba	@	10.951
+Historia del Arte	Córdoba	@	5.0
+Ingeniería Agroalimentaria y del Medio Rural	Córdoba	@	6.757
+Ingeniería Civil	Córdoba	@	5.0
+Ingeniería Civil + Administración y Dirección de Empresas	Córdoba	@	5.0
+Ingeniería Civil	Córdoba	Virtual	6.0
+Ingeniería de la Energía y Recursos Minerales	Córdoba	@	5.0
+Ingeniería de la Energía y Recursos Minerales + Ingeniería Civil	Córdoba	@	5.0
+Ingeniería de la Energía y Recursos Minerales + Ingeniería Eléctrica	Córdoba	@	5.0
+Ingeniería Eléctrica	Córdoba	@	5.0
+Ingeniería Electrónica Industrial	Córdoba	@	5.0
+Ingeniería Forestal	Córdoba	@	5.0
+Ingeniería Forestal + Ingeniería Agroalimentaria y del Medio Rural	Córdoba	@	5.0
+Ingeniería Informática	Córdoba	@	9.606
+Ingeniería Mecánica	Córdoba	@	8.678
+Matemáticas + Filosofía	Córdoba	@	5.0
+Medicina	Córdoba	@	13.18
+Nutrición Humana y Dietética	Córdoba	@	8.1
+Psicología	Córdoba	@	11.049
+Química	Córdoba	@	5.0
+Relaciones Laborales y Recursos Humanos	Córdoba	@	5.0
+Traducción e Interpretación: Francés	Córdoba	@	5.0
+Traducción e Interpretación: Francés + Filología Hispánica	Córdoba	@	5.0
+Traducción e Interpretación: Inglés	Córdoba	@	5.0
+Traducción e Interpretación: Inglés + Estudios Ingleses	Córdoba	@	5.91
+Traducción e Interpretación: Inglés + Filología Hispánica	Córdoba	@	10.122
+Turismo	Córdoba	@	5.0
+Turismo	Córdoba	Bilingüe	5.0
+Veterinaria	Córdoba	@	12.084
+Administración y Dirección de Empresas	Granada	Ceuta	5.0
+Administración y Dirección de Empresas	Granada	@	8.896
+Administración y Dirección de Empresas	Granada	Melilla	5.0
+Administración y Dirección de Empresas + Derecho	Granada	@	7.597
+Administración y Dirección de Empresas + Derecho	Granada	Melilla	5.0
+Antropología Social y Cultural	Granada	@	5.0
+Arqueología	Granada	@	5.0
+Bellas Artes	Granada	@	9.588
+Biología	Granada	@	8.73
+Bioquímica	Granada	@	12.289
+Biotecnología	Granada	@	12.563
+Ciencia de Datos e Inteligencia Artificial	Granada	@	5.0
+Ciencia de Datos e Inteligencia Artificial	Granada	Melilla	5.0
+Ciencia y Tecnología de los Alimentos	Granada	@	6.943
+Ciencias Ambientales	Granada	@	5.0
+Ciencias de la Actividad Física y del Deporte	Granada	@	11.564
+Ciencias Políticas y de la Administración	Granada	@	5.0
+Ciencias Políticas y de la Administración + Periodismo	Granada	@	7.239
+Ciencias Políticas y de la Administración + Sociología	Granada	@	7.043
+Comunicación Audiovisual	Granada	@	9.327
+Conservación y Restauración de Bienes Culturales	Granada	@	8.152
+Criminología	Granada	@	10.347
+Derecho	Granada	@	7.58
+Derecho + Ciencias Políticas y de la Administración	Granada	@	7.456
+Economía	Granada	@	5.0
+Economía	Granada	Bilingüe	5.0
+Edificación + Administración y Dirección de Empresas	Granada	@	6.18
+Edificación	Granada	@	6.336
+Educación Infantil	Granada	@	7.91
+Educación Infantil	Granada	Ceuta	5.0
+Educación Infantil	Granada	La Inmaculada	5.0
+Educación Infantil	Granada	Melilla	5.0
+Educación Primaria	Granada	Melilla	5.0
+Educación Primaria	Granada	@	8.45
+Educación Primaria	Granada	La Inmaculada	5.0
+Educación Primaria	Granada	Ceuta	5.0
+Educación Primaria + Ciencias de la Actividad Física y del Deporte	Granada	Melilla	7.62
+Educación Primaria + Estudios Franceses	Granada	@	5.0
+Educación Primaria + Estudios Ingleses	Granada	@	11.141
+Educación Primaria	Granada	Bilingüe	7.974
+Educación Social	Granada	Melilla	5.0
+Educación Social	Granada	Ceuta	5.0
+Educación Social	Granada	@	7.547
+Enfermería	Granada	Melilla	10.754
+Enfermería	Granada	Ceuta	10.764
+Enfermería	Granada	@	12.43
+Estadística	Granada	@	10.274
+Estudios Árabes e Islámicos	Granada	@	5.0
+Estudios de Arquitectura	Granada	@	10.043
+Estudios Franceses	Granada	@	5.0
+Estudios Franceses + Filología Hispánica	Granada	@	5.0
+Estudios Ingleses	Granada	@	7.278
+Estudios Ingleses + Filología Hispánica	Granada	@	6.67
+Farmacia	Granada	@	10.834
+Farmacia + Nutrición Humana y Dietética	Granada	@	12.415
+Filología Clásica	Granada	@	9.691
+Filología Hispánica	Granada	@	5.0
+Filosofía	Granada	@	5.0
+Finanzas y Contabilidad	Granada	@	7.46
+Física	Granada	@	11.863
+Fisioterapia	Granada	Melilla	10.039
+Fisioterapia	Granada	@	12.348
+Geografía y Gestión del Territorio	Granada	@	5.0
+Geología	Granada	@	5.0
+Historia	Granada	@	5.0
+Historia del Arte	Granada	@	5.0
+Historia y Ciencias de la Música	Granada	@	5.0
+Información y Documentación	Granada	@	5.0
+Ingeniería Biomédica	Granada	@	5.0
+Ingeniería Civil + Administración y Dirección de Empresas	Granada	@	7.562
+Ingeniería Civil	Jaén + Granada	PARS	7.311
+Ingeniería de Tecnologías de Telecomunicación	Granada	PARS	9.337
+Ingeniería Electrónica Industrial	Granada	@	10.106
+Ingeniería Informática + Administración y Dirección de Empresas	Granada	@	9.688
+Ingeniería Informática + Matemáticas	Granada	@	12.982
+Ingeniería Informática	Granada	Ceuta) (PARS	5.0
+Ingeniería Informática	Granada	PARS	10.322
+Ingeniería Química	Granada	PARS	6.947
+Lenguas Modernas y sus Literaturas	Granada	@	5.0
+Literaturas Comparadas	Granada	@	5.0
+Logopedia	Granada	@	8.6
+Márketing e Investigación de Mercados	Granada	@	8.509
+Matemáticas	Granada	@	12.282
+Matemáticas + Física	Granada	@	13.364
+Medicina	Granada	@	13.252
+Nutrición Humana y Dietética	Granada	@	9.32
+Nutrición Humana y Dietética + Ciencia y Tecnología de los Alimentos	Granada	@	11.002
+Odontología	Granada	@	13.072
+Óptica y Optometría	Granada	@	6.739
+Pedagogía	Granada	@	7.08
+Psicología	Granada	@	10.683
+Química	Granada	@	9.013
+Relaciones Laborales y Recursos Humanos	Granada	@	5.0
+Relaciones Laborales y Recursos Humanos	Granada	Melilla	5.0
+Sociología	Granada	@	5.0
+Terapia Ocupacional	Granada	@	10.148
+Trabajo Social	Granada	@	7.08
+Traducción e Interpretación: Alemán	Granada	@	5.0
+Traducción e Interpretación: Alemán + Turismo	Granada	@	5.0
+Traducción e Interpretación: Árabe	Granada	@	5.0
+Traducción e Interpretación: Francés	Granada	@	5.0
+Traducción e Interpretación: Francés + Turismo	Granada	@	5.0
+Traducción e Interpretación: Inglés	Granada	@	10.101
+Traducción e Interpretación: Inglés + Turismo	Granada	@	7.335
+Turismo	Granada	@	5.0
+Administración y Dirección de Empresas	Huelva	@	5.0
+Administración y Dirección de Empresas + Derecho	Huelva	@	5.0
+Administración y Dirección de Empresas + Finanzas y Contabilidad	Huelva	@	5.0
+Administración y Dirección de Empresas + Turismo	Huelva	@	5.0
+Ciencias Ambientales	Huelva	@	5.0
+Ciencias Ambientales + Ingeniería Forestal y del Medio Natural	Huelva	@	5.0
+Ciencias de la Actividad Física y del Deporte	Huelva	@	10.13
+Derecho	Huelva	@	9.62
+Educación Infantil	Huelva	@	7.29
+Educación Primaria	Huelva	@	6.75
+Educación Social	Huelva	@	5.0
+Enfermería	Huelva	@	11.722
+Estudios Ingleses	Huelva	@	5.0
+Estudios Ingleses + Filología Hispánica	Huelva	@	5.0
+Filología Hispánica	Huelva	@	5.0
+Finanzas y Contabilidad	Huelva	@	5.0
+Física	Huelva	@	5.0
+Geología + Ciencias Ambientales	Huelva	@	5.0
+Geología	Huelva	DUAL	5.0
+Gestión Cultural	Huelva	Virtual	5.0
+Historia	Huelva	@	5.0
+Humanidades	Huelva	@	5.0
+Ingeniería Agrícola	Huelva	@	5.0
+Ingeniería de Energías Renovables y Tecnologías del Hidrógeno	Huelva	@	5.0
+Ingeniería Eléctrica	Huelva	@	5.0
+Ingeniería Eléctrica + Ingeniería de Energías Renovables y Tecnologías del Hidrógeno	Huelva	@	5.0
+Ingeniería Electrónica Industrial y Automática	Huelva	@	5.0
+Ingeniería Mecánica + Ingeniería Electrónica Industrial y Automática	Huelva	@	6.146
+Ingeniería Forestal y del Medio Natural	Huelva	@	5.0
+Ingeniería Informática	Huelva	@	5.502
+Ingeniería Mecánica	Huelva	@	5.0
+Ingeniería Mecánica + Ingeniería Minera	Huelva	@	5.0
+Ingeniería Minera	Huelva	@	5.0
+Ingeniería Química Industrial	Huelva	@	5.0
+Medicina	Huelva	@	13.063
+Psicología	Huelva	@	9.54
+Química	Huelva	@	5.0
+Relaciones Laborales y Recursos Humanos	Huelva	@	5.0
+Relaciones Laborales y Recursos Humanos	Huelva	Virtual	5.0
+Trabajo Social	Huelva	@	5.0
+Turismo	Huelva	@	5.0
+Administración y Dirección de Empresas	Jaén	@	5.0
+Administración y Dirección de Empresas + Derecho	Jaén	@	5.0
+Administración y Dirección de Empresas + Finanzas y Contabilidad	Jaén	@	7.535
+Administración y Dirección de Empresas	Jaén	Bilingüe	5.0
+Arqueología	Jaén	@	5.0
+Biología	Jaén	@	5.0
+Ciencias Ambientales	Jaén	@	5.0
+Derecho	Jaén	@	5.0
+Educación Infantil	Jaén	@	5.0
+Educación Infantil	Jaén	Úbeda	5.0
+Educación Primaria	Jaén	Úbeda	5.0
+Educación Primaria	Jaén	@	5.0
+Educación Social	Jaén	@	5.0
+Enfermería	Jaén	@	11.992
+Estadística y Empresa	Jaén	@	5.0
+Estudios Ingleses	Jaén	@	5.0
+Filología Hispánica	Jaén	@	5.0
+Finanzas y Contabilidad	Jaén	@	5.92
+Fisioterapia	Jaén	@	11.288
+Geografía e Historia	Jaén	@	5.0
+Geografía e Historia + Historia del Arte	Jaén	@	5.0
+Gestión y Administración Pública	Jaén	@	5.0
+Historia del Arte	Jaén	@	5.0
+Ingeniería Civil	Jaén	Linares	5.0
+Ingeniería Civil + Ingeniería de Tecnologías Mineras	Jaén	Linares	5.0
+Ingeniería de la Energía	Jaén	Linares	5.0
+Ingeniería de la Energía + Ingeniería de Tecnologías Mineras	Jaén	Linares	5.0
+Ingeniería de Organización Industrial	Jaén	@	5.0
+Ingeniería de Tecnologías de Telecomunicación	Jaén	Linares	5.0
+Ingeniería de Tecnologías Mineras	Jaén	Linares	5.0
+Ingeniería Eléctrica	Jaén	Linares	5.0
+Ingeniería Eléctrica	Jaén	@	5.0
+Ingeniería Eléctrica + Ingeniería Electrónica Industrial	Jaén	@	5.0
+Ingeniería Eléctrica + Ingeniería Mecánica	Jaén	@	8.127
+Ingeniería Eléctrica + Ingeniería Mecánica	Jaén	Linares	6.934
+Ingeniería Electrónica Industrial	Jaén	@	5.0
+Ingeniería Electrónica Industrial + Ingeniería Mecánica	Jaén	@	7.96
+Ingeniería Geomática y Topográfica	Jaén	@	5.0
+Ingeniería Informática	Jaén	@	7.736
+Ingeniería Mecánica	Jaén	@	5.095
+Ingeniería Mecánica	Jaén	Linares	5.0
+Ingeniería Mecánica + Ingeniería de Organización Industrial	Jaén	@	5.0
+Ingeniería Química Industrial	Jaén	Linares	5.0
+Ingeniería Telemática	Jaén	Linares	5.0
+Ingeniería Telemática + Ingeniería de Tecnologías de Telecomunicación	Jaén	Linares	5.0
+Inteligencia Artificial y Ciberseguridad	Jaén	@	10.19
+Medicina	Jaén	@	13.066
+Psicología	Jaén	@	9.174
+Química	Jaén	@	5.0
+Relaciones Laborales y Recursos Humanos	Jaén	@	5.0
+Trabajo Social	Jaén	@	5.0
+Turismo	Jaén	@	5.0
+Administración y Dirección de Empresas	Málaga	@	7.5
+Administración y Dirección de Empresas + Derecho	Málaga	@	9.171
+Administración y Dirección de Empresas + Finanzas y Contabilidad	Málaga	@	10.082
+Bellas Artes	Málaga	@	8.934
+Biología	Málaga	@	9.026
+Bioquímica	Málaga	@	11.666
+Ciberseguridad e Inteligencia Artificial	Málaga	@	12.304
+Ciencias Ambientales	Málaga	@	5.0
+Ciencias de la Actividad Física y del Deporte	Málaga	Bilingüe	11.494
+Ciencias Gastronómicas y Gestión Hotelera	Málaga	@	5.0
+Ciencias Políticas y de la Administración + Periodismo	Málaga	@	6.045
+Comunicación Audiovisual	Málaga	@	7.054
+Criminología	Málaga	@	9.62
+Criminología + Psicología	Málaga	@	9.476
+Derecho	Málaga	@	8.628
+Derecho + Criminología	Málaga	@	9.084
+Economía	Málaga	@	6.178
+Economía + Administración y Dirección de Empresas	Málaga	Bilingüe	7.468
+Educación Infantil	Málaga	@	8.904
+Educación Infantil	Málaga	Antequera	5.0
+Educación Primaria	Málaga	Antequera	5.0
+Educación Primaria	Málaga	@	8.92
+Educación Primaria + Estudios Ingleses	Málaga	@	9.636
+Educación Social	Málaga	@	7.915
+Enfermería	Málaga	Ronda	11.746
+Enfermería	Málaga	@	12.182
+Estudios de Asia Oriental	Málaga	@	5.0
+Estudios Ingleses	Málaga	@	5.0
+Estudios Transculturales Europeos	Málaga	@	5.0
+Filología Clásica	Málaga	@	5.0
+Filología Hispánica	Málaga	@	5.0
+Filosofía	Málaga	@	5.0
+Finanzas y Contabilidad	Málaga	@	5.742
+Fisioterapia	Málaga	@	11.953
+Fundamentos de Arquitectura	Málaga	@	10.764
+Geografía y Gestión del Territorio	Málaga	@	5.0
+Geografía y Gestión del Territorio + Historia	Málaga	@	5.0
+Gestión y Administración Pública	Málaga	@	5.0
+Historia	Málaga	@	5.0
+Historia del Arte	Málaga	@	5.0
+Ingeniería de la Energía	Málaga	@	5.0
+Ingeniería de la Salud	Málaga	@	9.745
+Ingeniería de Organización Industrial	Málaga	@	10.086
+Ingeniería de Sistemas de Telecomunicación	Málaga	@	5.0
+Ingeniería de Sonido e Imagen	Málaga	@	5.0
+Ingeniería de Tecnologías de Telecomunicación + Matemáticas	Málaga	@	11.326
+Ingeniería de Tecnologías de Telecomunicación	Málaga	PARS	9.38
+Ingeniería del Software	Málaga	@	11.418
+Ingeniería Eléctrica	Málaga	@	5.0
+Ingeniería Eléctrica + Ingeniería Electrónica Industrial	Málaga	@	6.67
+Ingeniería Eléctrica + Ingeniería Mecánica	Málaga	@	11.185
+Ingeniería Electrónica de Telecomunicación	Málaga	@	5.0
+Ingeniería Electrónica Industrial	Málaga	@	5.0
+Ingeniería Electrónica, Robótica y Mecatrónica	Málaga	@	10.506
+Ingeniería en Diseño Industrial y Desarrollo del Producto	Málaga	@	9.277
+Ingeniería en Tecnologías Industriales	Málaga	PARS	5.0
+Ingeniería Informática	Málaga	@	10.541
+Ingeniería Informática + Matemáticas	Málaga	@	13.37
+Ingeniería Mecánica	Málaga	@	10.414
+Ingeniería Mecánica + Ingeniería en Diseño Industrial y Desarrollo del Producto	Málaga	@	11.907
+Ingeniería Química	Málaga	@	7.0
+Ingeniería Telemática	Málaga	@	5.0
+Logopedia	Málaga	@	8.013
+Márketing e Investigación de Mercados	Málaga	@	5.0
+Matemáticas	Málaga	@	11.585
+Medicina	Málaga	@	13.133
+Pedagogía	Málaga	@	6.022
+Periodismo	Málaga	@	5.0
+Podología	Málaga	@	10.205
+Psicología	Málaga	@	10.187
+Psicología + Logopedia	Málaga	@	9.766
+Publicidad y Relaciones Públicas	Málaga	@	6.403
+Química	Málaga	@	7.943
+Relaciones Laborales y Recursos Humanos	Málaga	@	5.0
+Terapia Ocupacional	Málaga	@	9.02
+Trabajo Social	Málaga	@	6.7
+Traducción e Interpretación: Francés	Málaga	@	5.0
+Traducción e Interpretación: Francés + Turismo	Málaga	@	5.0
+Traducción e Interpretación: Inglés	Málaga	@	5.423
+Traducción e Interpretación: Inglés + Turismo	Málaga	@	6.23
+Turismo	Málaga	@	5.0
+Turismo + Publicidad y Relaciones Públicas	Málaga	@	6.761
+Administración y Dirección de Empresas	Sevilla	Osuna	5.0
+Administración y Dirección de Empresas	Sevilla	@	6.763
+Administración y Dirección de Empresas + Derecho	Sevilla	@	9.482
+Administración y Dirección de Empresas + Economía	Sevilla	@	11.753
+Administración y Dirección de Empresas + Finanzas y Contabilidad	Sevilla	@	12.564
+Administración y Dirección de Empresas	Sevilla	Bilingüe	9.8
+Antropología Social y Cultural	Sevilla	@	5.0
+Arqueología	Sevilla	@	5.0
+Bellas Artes	Sevilla	@	9.304
+Biología	Sevilla	@	10.24
+Biomedicina Básica y Experimental	Sevilla	@	13.051
+Bioquímica	Sevilla	@	12.365
+Ciencias de la Actividad Física y del Deporte	Sevilla	@	10.878
+Ciencias de la Actividad Física y del Deporte	Sevilla	Osuna	9.0
+Comunicación Audiovisual	Sevilla	@	8.06
+Comunicación Audiovisual	Sevilla	EUSA	5.0
+Conservación y Restauración de Bienes Culturales	Sevilla	@	8.48
+Criminología	Sevilla	@	9.65
+Derecho	Sevilla	@	9.316
+Derecho + Economía	Sevilla	@	11.736
+Derecho + Filosofía	Sevilla	@	6.14
+Derecho + Finanzas y Contabilidad	Sevilla	@	7.002
+Derecho + Laurea Magistrale in Giurisprudenza	Sevilla	@	8.388
+Economía	Sevilla	@	8.308
+Edificación	Sevilla	@	6.77
+Educación Infantil	Sevilla	@	10.0
+Educación Infantil	Sevilla	Osuna	5.0
+Educación Infantil + Educación Primaria	Sevilla	Osuna	5.0
+Educación Infantil + Educación Primaria	Sevilla	@	12.758
+Educación Primaria	Sevilla	@	9.306
+Educación Primaria	Sevilla	Osuna	5.0
+Educación Primaria + Estudios Franceses	Sevilla	@	8.989
+Enfermería	Sevilla	Cruz Roja	12.029
+Enfermería	Sevilla	@	12.53
+Enfermería	Sevilla	Osuna	11.536
+Estadística	Sevilla	@	11.322
+Estadística + Finanzas y Contabilidad	Sevilla	@	12.728
+Estudios de Asia Oriental	Sevilla	@	5.0
+Estudios Franceses	Sevilla	@	5.0
+Estudios Ingleses	Sevilla	@	6.35
+Farmacia	Sevilla	@	11.498
+Farmacia + Óptica y Optometría	Sevilla	@	11.74
+Filología Clásica	Sevilla	@	7.919
+Filología Clásica + Filología Hispánica	Sevilla	@	10.657
+Filología Hispánica	Sevilla	@	5.0
+Filosofía	Sevilla	@	5.0
+Finanzas y Contabilidad	Sevilla	@	5.0
+Finanzas y Contabilidad	Sevilla	Osuna	5.0
+Finanzas y Contabilidad + Relaciones Laborales y Recursos Humanos	Sevilla	@	5.0
+Finanzas y Contabilidad + Relaciones Laborales y Recursos Humanos	Sevilla	Osuna	5.0
+Finanzas y Contabilidad + Turismo	Sevilla	@	5.678
+Finanzas y Contabilidad	Sevilla	Bilingüe	5.0
+Física	Sevilla	@	11.95
+Física + Ingeniería de Materiales	Sevilla	@	11.874
+Física + Matemáticas	Sevilla	@	13.59
+Fisioterapia	Sevilla	Osuna	10.196
+Fisioterapia	Sevilla	@	12.46
+Fisioterapia + Ciencias de la Actividad Física y del Deporte	Sevilla	Osuna	11.705
+Fisioterapia + Ciencias de la Actividad Física y del Deporte	Sevilla	@	13.291
+Fundamentos de Arquitectura	Sevilla	@	9.888
+Geografía y Gestión del Territorio	Sevilla	@	5.0
+Geografía y Gestión del Territorio + Historia	Sevilla	@	5.0
+Historia	Sevilla	@	5.0
+Historia + Historia del Arte	Sevilla	@	12.142
+Historia del Arte	Sevilla	@	5.0
+Ingeniería Aeroespacial	Sevilla	PARS	13.143
+Ingeniería Agrícola	Sevilla	@	7.15
+Ingeniería Agrícola + Ciencias Ambientales	Sevilla + Pablo Olavide	@	6.773
+Ingeniería Civil	Sevilla	PARS	10.562
+Ingeniería de la Energía	Sevilla	@	10.548
+Ingeniería de la Salud	Sevilla	@	11.284
+Ingeniería de Materiales	Sevilla	@	9.124
+Ingeniería de Organización Industrial	Sevilla	@	11.37
+Ingeniería de Tecnologías de Telecomunicación	Sevilla	PARS	9.004
+Ingeniería Eléctrica	Sevilla	@	9.593
+Ingeniería Eléctrica + Ingeniería Electrónica Industrial	Sevilla	@	8.718
+Ingeniería Electrónica Industrial	Sevilla	@	8.667
+Ingeniería Electrónica, Robótica y Mecatrónica	Sevilla	@	11.925
+Ingeniería en Diseño Industrial y Desarrollo del Producto	Sevilla	@	10.362
+Ingeniería en Tecnologías Industriales	Sevilla	PARS	11.376
+Ingeniería Informática. Ingeniería de Computadores	Sevilla	@	9.043
+Ingeniería Informática. Ingeniería del Software	Sevilla	@	10.648
+Ingeniería Informática. Ingeniería del Software	Sevilla	Bilingüe	11.916
+Ingeniería Informática. Inteligencia Artificial	Sevilla	@	11.414
+Ingeniería Informática. Tecnología Informática	Sevilla	@	9.878
+Ingeniería Informática. Tecnología Informática + Matemáticas	Sevilla	@	13.25
+Ingeniería Mecánica	Sevilla	@	11.166
+Ingeniería Mecánica + Ingeniería Eléctrica	Sevilla	@	11.222
+Ingeniería Mecánica + Ingeniería en Diseño Industrial y Desarrollo del Producto	Sevilla	@	12.278
+Ingeniería Química Industrial	Sevilla	@	6.736
+Ingeniería Química	Sevilla	PARS	7.167
+Lenguas Modernas, Literaturas y Culturas	Sevilla	@	5.0
+Lenguas Modernas, Literaturas y Culturas + Educación Primaria	Sevilla	@	9.106
+Márketing e Investigación de Mercados	Sevilla	@	9.808
+Matemáticas	Sevilla	@	11.919
+Matemáticas + Estadística	Sevilla	@	13.08
+Medicina	Sevilla	@	13.335
+Odontología	Sevilla	@	13.21
+Óptica y Optometría	Sevilla	@	10.128
+Pedagogía	Sevilla	@	8.436
+Periodismo	Sevilla	EUSA	5.0
+Periodismo	Sevilla	@	5.304
+Periodismo + Comunicación Audiovisual	Sevilla	EUSA	5.0
+Periodismo + Comunicación Audiovisual	Sevilla	@	11.686
+Podología	Sevilla	@	11.236
+Psicología	Sevilla	@	11.411
+Publicidad y Relaciones Públicas	Sevilla	@	9.429
+Publicidad y Relaciones Públicas	Sevilla	EUSA	5.0
+Química	Sevilla	@	7.7
+Química + Ingeniería de Materiales	Sevilla	@	10.18
+Relaciones Laborales y Recursos Humanos	Sevilla	Osuna	5.0
+Relaciones Laborales y Recursos Humanos	Sevilla	@	6.186
+Turismo	Sevilla	@	5.0
+Turismo	Sevilla	Bilingüe	5.0
+Administración y Dirección de Empresas	Pablo Olavide	San Isidoro	5.0
+Administración y Dirección de Empresas	Pablo Olavide	@	8.27
+Administración y Dirección de Empresas + Derecho	Pablo Olavide	@	7.74
+Administración y Dirección de Empresas + Derecho	Pablo Olavide	San Isidoro	5.0
+Administración y Dirección de Empresas + Derecho	Pablo Olavide	Bilingüe	7.083
+Administración y Dirección de Empresas	Pablo Olavide	Bilingüe	9.649
+Análisis Económico	Pablo Olavide	@	5.0
+Biotecnología	Pablo Olavide	@	12.177
+Ciencias Ambientales	Pablo Olavide	@	5.0
+Ciencias Ambientales + Geografía e Historia	Pablo Olavide	@	5.0
+Ciencias de la Actividad Física y del Deporte	Pablo Olavide	San Isidoro	7.77
+Ciencias de la Actividad Física y del Deporte	Pablo Olavide	@	10.99
+Ciencias Políticas y de la Administración	Pablo Olavide	@	6.965
+Ciencias Políticas y de la Administración + Sociología	Pablo Olavide	@	5.0
+Comunicación	Pablo Olavide	San Isidoro	5.0
+Comunicación + Comunicación Digital	Pablo Olavide	San Isidoro	5.0
+Comunicación Digital	Pablo Olavide	San Isidoro	5.0
+Criminología	Pablo Olavide	@	9.225
+Derecho	Pablo Olavide	San Isidoro	5.0
+Derecho	Pablo Olavide	@	9.3
+Derecho + Ciencias Políticas y de la Administración	Pablo Olavide	@	8.173
+Derecho + Criminología	Pablo Olavide	@	11.309
+Derecho + Finanzas y Contabilidad	Pablo Olavide	@	5.0
+Derecho + Relaciones Laborales y Recursos Humanos	Pablo Olavide	@	9.257
+Derecho Hispano-Alemán (Bachelor in Law)	Pablo Olavide	@	5.833
+Diseño Gráfico y Creatividad Digital	Pablo Olavide	San Isidoro	5.0
+Educación Social	Pablo Olavide	@	8.688
+Finanzas y Contabilidad	Pablo Olavide	@	5.0
+Fisioterapia	Pablo Olavide	San Isidoro	5.0
+Geografía e Historia	Pablo Olavide	@	5.0
+Humanidades	Pablo Olavide	@	5.0
+Humanidades + Traducción e Interpretación: Inglés	Pablo Olavide	@	5.0
+Ingeniería Informática: Mención en Ciencia de Datos	Pablo Olavide	@	9.05
+Ingeniería Informática: Mención en Sistemas de Información	Pablo Olavide	@	8.996
+Nutrición Humana y Dietética	Pablo Olavide	@	10.676
+Odontología	Pablo Olavide	San Isidoro	10.87
+Relaciones Internacionales	Pablo Olavide	@	12.48
+Relaciones Internacionales + Ciencias Políticas y de la Administración	Pablo Olavide	@	12.799
+Relaciones Internacionales + Derecho	Pablo Olavide	@	13.244
+Relaciones Internacionales + Geografía e Historia	Pablo Olavide	@	11.722
+Relaciones Laborales y Recursos Humanos	Pablo Olavide	@	5.0
+Sociología	Pablo Olavide	@	5.0
+Trabajo Social	Pablo Olavide	@	7.558
+Trabajo Social + Educación Social	Pablo Olavide	@	8.165
+Trabajo Social + Sociología	Pablo Olavide	@	6.425
+Traducción e Interpretación: Alemán	Pablo Olavide	@	5.0
+Relaciones Internacionales + Traducción e Interpretación: Alemán	Pablo Olavide	@	11.57
+Traducción e Interpretación: Francés	Pablo Olavide	@	5.0
+Relaciones Internacionales + Traducción e Interpretación: Francés	Pablo Olavide	@	12.729
+Traducción e Interpretación: Inglés	Pablo Olavide	@	6.24

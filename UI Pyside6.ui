@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="enabled">
+   <bool>true</bool>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>824</width>
+    <height>445</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout" stretch="0,0">
+    <item>
+     <widget class="QLabel" name="Titulo">
+      <property name="maximumSize">
+       <size>
+        <width>16777215</width>
+        <height>16777215</height>
+       </size>
+      </property>
+      <property name="tabletTracking">
+       <bool>true</bool>
+      </property>
+      <property name="lineWidth">
+       <number>1</number>
+      </property>
+      <property name="text">
+       <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:24pt; font-weight:700; text-decoration: underline;&quot;&gt;CALCULADORA PAU ANDALUCÍA&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="GeneralH1Layout" stretch="1,1">
+      <property name="spacing">
+       <number>40</number>
+      </property>
+      <property name="sizeConstraint">
+       <enum>QLayout::SizeConstraint::SetDefaultConstraint</enum>
+      </property>
+      <item>
+       <layout class="QVBoxLayout" name="GeneralV1Layout" stretch="1,2,0">
+        <property name="spacing">
+         <number>10</number>
+        </property>
+        <item>
+         <widget class="QGroupBox" name="NombreCampo">
+          <property name="title">
+           <string>Nombre</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_2">
+           <item>
+            <widget class="QLineEdit" name="NombreInput"/>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item>
+         <widget class="QGroupBox" name="BachilleratoCampo">
+          <property name="title">
+           <string>Bachillerato</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_3">
+           <item>
+            <layout class="QHBoxLayout" name="BachH1Layout">
+             <item>
+              <widget class="QLabel" name="Bach1Label">
+               <property name="text">
+                <string>Media de 1º</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLineEdit" name="Bach1Input"/>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="BachH2Layout">
+             <item>
+              <widget class="QLabel" name="Bach2Label">
+               <property name="text">
+                <string>Media de 2º</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLineEdit" name="Bach2Input"/>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item>
+         <widget class="QGroupBox" name="FAcCampo">
+          <property name="title">
+           <string>Fase de Acceso</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_5">
+           <item>
+            <layout class="QHBoxLayout" name="FAcH1Layout">
+             <item>
+              <widget class="QLabel" name="LenguaLabel">
+               <property name="text">
+                <string>Lengua Castellana y Literatura</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLineEdit" name="LenguaInput"/>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="FAcH2Layout">
+             <item>
+              <widget class="QComboBox" name="HoFCombo">
+               <property name="minimumSize">
+                <size>
+                 <width>89</width>
+                 <height>0</height>
+                </size>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLineEdit" name="HoFInput"/>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="FAcH3Layout">
+             <item>
+              <widget class="QComboBox" name="IdiomaCombo"/>
+             </item>
+             <item>
+              <widget class="QLineEdit" name="IdiomaInput"/>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="FAcH4Layout">
+             <item>
+              <widget class="QComboBox" name="TroncalCombo"/>
+             </item>
+             <item>
+              <widget class="QLineEdit" name="TroncalInput"/>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <layout class="QVBoxLayout" name="GeneralV2Layout" stretch="0,0">
+        <property name="spacing">
+         <number>10</number>
+        </property>
+        <item>
+         <widget class="QStackedWidget" name="FAdStackedWidget">
+          <property name="currentIndex">
+           <number>4</number>
+          </property>
+          <widget class="QWidget" name="FAd0">
+           <layout class="QHBoxLayout" name="horizontalLayout">
+            <item>
+             <widget class="QGroupBox" name="FAdCampo0">
+              <property name="title">
+               <string>Fase de Admisión</string>
+              </property>
+              <layout class="QVBoxLayout" name="verticalLayout_6">
+               <item>
+                <widget class="QPushButton" name="F0AddButton">
+                 <property name="text">
+                  <string>Añadir asignatura</string>
+                 </property>
+                </widget>
+               </item>
+              </layout>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+          <widget class="QWidget" name="FAd1">
+           <layout class="QHBoxLayout" name="horizontalLayout_2">
+            <item>
+             <widget class="QGroupBox" name="FAdCampo1">
+              <property name="title">
+               <string>Fase de Admisión</string>
+              </property>
+              <layout class="QVBoxLayout" name="verticalLayout_7">
+               <item>
+                <layout class="QHBoxLayout" name="FAd1H1Layout">
+                 <item>
+                  <widget class="QComboBox" name="F1OptCombo">
+                   <property name="maximumSize">
+                    <size>
+                     <width>16777215</width>
+                     <height>16777215</height>
+                    </size>
+                   </property>
+                  </widget>
+                 </item>
+                 <item>
+                  <widget class="QComboBox" name="F1SLECombo"/>
+                 </item>
+                 <item>
+                  <widget class="QLineEdit" name="F1OptInput"/>
+                 </item>
+                </layout>
+               </item>
+               <item>
+                <layout class="QHBoxLayout" name="FAd1H2Layout">
+                 <item>
+                  <widget class="QPushButton" name="F1LessButton">
+                   <property name="text">
+                    <string>Quitar</string>
+                   </property>
+                  </widget>
+                 </item>
+                 <item>
+                  <widget class="QPushButton" name="F1AddButton">
+                   <property name="text">
+                    <string>Añadir</string>
+                   </property>
+                  </widget>
+                 </item>
+                </layout>
+               </item>
+              </layout>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+          <widget class="QWidget" name="FAd2">
+           <layout class="QHBoxLayout" name="horizontalLayout_5">
+            <item>
+             <widget class="QGroupBox" name="FAdCampo2">
+              <property name="title">
+               <string>Fase de Admisión</string>
+              </property>
+              <layout class="QVBoxLayout" name="verticalLayout_8">
+               <item>
+                <layout class="QHBoxLayout" name="FAd2H1Layout">
+                 <item>
+                  <widget class="QComboBox" name="F2Opt1Combo"/>
+                 </item>
+                 <item>
+                  <widget class="QComboBox" name="F2SLE1Combo"/>
+                 </item>
+                 <item>
+                  <widget class="QLineEdit" name="F2Opt1Input"/>
+                 </item>
+                </layout>
+               </item>
+               <item>
+                <layout class="QHBoxLayout" name="FAd2H2Layout">
+                 <item>
+                  <widget class="QComboBox" name="F2Opt2Combo"/>
+                 </item>
+                 <item>
+                  <widget class="QComboBox" name="F2SLE2Combo"/>
+                 </item>
+                 <item>
+                  <widget class="QLineEdit" name="F2Opt2Input"/>
+                 </item>
+                </layout>
+               </item>
+               <item>
+                <layout class="QHBoxLayout" name="FAd2H3Layout">
+                 <item>
+                  <widget class="QPushButton" name="F2LessButton">
+                   <property name="text">
+                    <string>Quitar</string>
+                   </property>
+                  </widget>
+                 </item>
+                 <item>
+                  <widget class="QPushButton" name="F2AddButton">
+                   <property name="text">
+                    <string>Añadir</string>
+                   </property>
+                  </widget>
+                 </item>
+                </layout>
+               </item>
+              </layout>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+          <widget class="QWidget" name="FAd3">
+           <layout class="QHBoxLayout" name="horizontalLayout_10">
+            <item>
+             <widget class="QGroupBox" name="FAdCampo3">
+              <property name="title">
+               <string>Fase de Admisión</string>
+              </property>
+              <layout class="QVBoxLayout" name="verticalLayout_9">
+               <item>
+                <layout class="QHBoxLayout" name="FAd3H1Layout">
+                 <item>
+                  <widget class="QComboBox" name="F3Opt1Combo"/>
+                 </item>
+                 <item>
+                  <widget class="QComboBox" name="F3SLE1Combo"/>
+                 </item>
+                 <item>
+                  <widget class="QLineEdit" name="F3Opt1Input"/>
+                 </item>
+                </layout>
+               </item>
+               <item>
+                <layout class="QHBoxLayout" name="FAd3H2Layout">
+                 <item>
+                  <widget class="QComboBox" name="F3Opt2Combo"/>
+                 </item>
+                 <item>
+                  <widget class="QComboBox" name="F3SLE2Combo"/>
+                 </item>
+                 <item>
+                  <widget class="QLineEdit" name="F3Opt2Input"/>
+                 </item>
+                </layout>
+               </item>
+               <item>
+                <layout class="QHBoxLayout" name="FAd3H3Layout">
+                 <item>
+                  <widget class="QComboBox" name="F3Opt3Combo"/>
+                 </item>
+                 <item>
+                  <widget class="QComboBox" name="F3SLE3Combo"/>
+                 </item>
+                 <item>
+                  <widget class="QLineEdit" name="F3Opt3Input"/>
+                 </item>
+                </layout>
+               </item>
+               <item>
+                <layout class="QHBoxLayout" name="FAd3H4Layout">
+                 <item>
+                  <widget class="QPushButton" name="F3LessButton">
+                   <property name="text">
+                    <string>Quitar</string>
+                   </property>
+                  </widget>
+                 </item>
+                 <item>
+                  <widget class="QPushButton" name="F3AddButton">
+                   <property name="text">
+                    <string>Añadir</string>
+                   </property>
+                  </widget>
+                 </item>
+                </layout>
+               </item>
+              </layout>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+          <widget class="QWidget" name="FAd4">
+           <layout class="QHBoxLayout" name="horizontalLayout_15">
+            <item>
+             <layout class="QVBoxLayout" name="verticalLayout_4">
+              <item>
+               <widget class="QGroupBox" name="FAdCampo4">
+                <property name="title">
+                 <string>Fase de Admisión</string>
+                </property>
+                <layout class="QVBoxLayout" name="verticalLayout_10">
+                 <item>
+                  <layout class="QHBoxLayout" name="FAd4H1Layout">
+                   <item>
+                    <widget class="QComboBox" name="F4Opt1Combo"/>
+                   </item>
+                   <item>
+                    <widget class="QComboBox" name="F4SLE1Combo"/>
+                   </item>
+                   <item>
+                    <widget class="QLineEdit" name="F4Opt1Input"/>
+                   </item>
+                  </layout>
+                 </item>
+                 <item>
+                  <layout class="QHBoxLayout" name="FAd4H2Layout">
+                   <item>
+                    <widget class="QComboBox" name="F4Opt2Combo">
+                     <property name="maximumSize">
+                      <size>
+                       <width>16777215</width>
+                       <height>16777215</height>
+                      </size>
+                     </property>
+                    </widget>
+                   </item>
+                   <item>
+                    <widget class="QComboBox" name="F4SLE2Combo"/>
+                   </item>
+                   <item>
+                    <widget class="QLineEdit" name="F4Opt2Input"/>
+                   </item>
+                  </layout>
+                 </item>
+                 <item>
+                  <layout class="QHBoxLayout" name="FAd4H3Layout">
+                   <item>
+                    <widget class="QComboBox" name="F4Opt3Combo">
+                     <property name="maximumSize">
+                      <size>
+                       <width>16777215</width>
+                       <height>16777215</height>
+                      </size>
+                     </property>
+                    </widget>
+                   </item>
+                   <item>
+                    <widget class="QComboBox" name="F4SLE3Combo"/>
+                   </item>
+                   <item>
+                    <widget class="QLineEdit" name="F4Opt3Input"/>
+                   </item>
+                  </layout>
+                 </item>
+                 <item>
+                  <layout class="QHBoxLayout" name="Fad4H4Layout">
+                   <item>
+                    <widget class="QLabel" name="F4SLELabel">
+                     <property name="text">
+                      <string>Segunda Lengua Extranjera</string>
+                     </property>
+                    </widget>
+                   </item>
+                   <item>
+                    <widget class="QComboBox" name="F4Opt4Combo"/>
+                   </item>
+                   <item>
+                    <widget class="QComboBox" name="F4SLE4Combo">
+                     <property name="maximumSize">
+                      <size>
+                       <width>16777215</width>
+                       <height>16777215</height>
+                      </size>
+                     </property>
+                    </widget>
+                   </item>
+                   <item>
+                    <widget class="QLineEdit" name="F4Opt4Input"/>
+                   </item>
+                  </layout>
+                 </item>
+                 <item>
+                  <widget class="QPushButton" name="F4LessButton">
+                   <property name="text">
+                    <string>Quitar</string>
+                   </property>
+                  </widget>
+                 </item>
+                </layout>
+               </widget>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </widget>
+         </widget>
+        </item>
+        <item>
+         <layout class="QVBoxLayout" name="VCalculoLayout">
+          <item>
+           <widget class="QPushButton" name="EjecutarButton">
+            <property name="text">
+             <string>CALCULAR</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QTextEdit" name="Output">
+            <property name="readOnly">
+             <bool>true</bool>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <layout class="QHBoxLayout" name="AutorLayout">
+            <item>
+             <widget class="QLabel" name="AutorLabel">
+              <property name="text">
+               <string>Creador: Álvaro López Pérez</string>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <widget class="QPushButton" name="InfoButton">
+              <property name="text">
+               <string>Acerca de</string>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
