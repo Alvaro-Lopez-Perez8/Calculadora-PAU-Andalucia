@@ -6,475 +6,332 @@ Fecha: 27/04/2026
 Titular de derechos / Licenciante: Álvaro López Pérez
 Proyecto: Calculadora PAU Andalucía (2026)
 URL oficial de la versión original gratuita: https://drive.google.com/drive/folders/1wqzLrA6vG_kt93CTAKJ6Gax0JJEQPa__
-Repositorio oficial gratuito: https://github.com/Alvaro-Lopez-Perez8/Calculadora-PAU-Andalucia.git
+Repositorio oficial gratuito:
+https://github.com/Alvaro-Lopez-Perez8/Calculadora-PAU-Andalucia.git
 Correo de contacto: alopper8@gmail.com
 Jurisdicción de referencia: España
+ 
+Contenidos
+1. Naturaleza y objeto de la licencia
+2. Aceptación de la licencia
+3. Definiciones
+4. Permisos concedidos
+5. Condiciones obligatorias de atribución
+6. Obligación de acceso a la Obra Original gratuita
+7. Condiciones para Versiones Modificadas
+8. Distribución de Ejecutables, Binarios e instaladores
+9. Prohibición de explotación comercial no autorizada
+10. Usos profesionales, docentes o comerciales permitidos de forma limitada
+11. Uso remoto o en red
+12. Prohibición de uso para entrenamiento, desarrollo o explotación de inteligencia artificial
+13. Componentes de terceros
+14. Contribuciones externas
+15. Conservación de avisos legales
+16. Marcas, nombres, logotipos e identidad del Titular
+17. Derechos de patente y otros derechos no licenciados
+18. Protección de datos, seguridad y usos indebidos
+19. Ausencia de garantía
+20. Limitación de responsabilidad
+21. Responsabilidad de quien modifica, distribuye o presta acceso
+22. Terminación por incumplimiento
+22.1. Terminación automática
+22.2. Subsanación de incumplimientos no esenciales
+22.3. Efectos de la terminación
+23. Autorizaciones adicionales y licencias separadas
+24. Versiones posteriores de la licencia
+25. Interpretación
+26. Ley aplicable y jurisdicción
+27. Aviso abreviado recomendado
+28. Texto breve para cabeceras de archivos fuente
+29. Resumen no vinculante
 
 1. Naturaleza y objeto de la licencia
 La presente licencia regula las condiciones bajo las cuales el Titular de derechos autoriza el uso, copia, reproducción, instalación, ejecución, estudio, modificación, adaptación, distribución, comunicación pública, puesta a disposición y redistribución de Calculadora PAU Andalucía (2026), así como de las versiones modificadas que puedan derivarse del mismo, en los términos establecidos en este documento.
-
 A efectos de esta licencia, el conjunto de materiales licenciados se denominará, en adelante, la Obra.
 Salvo indicación expresa en contrario, la Obra comprende:
-
 1.	El código fuente del programa.
-
 2.	Los archivos ejecutables o binarios generados a partir del programa, incluyendo, entre otros, archivos .exe, instaladores, paquetes portables, archivos comprimidos, ejecutables empaquetados o formatos equivalentes.
-
 3.	Los archivos de configuración, recursos internos, scripts, plantillas, bases de datos, hojas de estilo, imágenes, iconos, documentos, ejemplos, estructuras de carpetas y demás elementos necesarios o razonablemente vinculados a su funcionamiento.
-
 4.	La documentación técnica, manuales de uso, instrucciones de instalación, instrucciones de compilación, guías de empaquetado y materiales explicativos incluidos en el proyecto.
-
 5.	Los contenidos originales incorporados al programa o distribuidos junto con él, tales como textos, ejercicios, explicaciones, ejemplos, esquemas, materiales docentes, bases de datos, plantillas, ilustraciones, tablas, fórmulas, interfaces, elementos gráficos u otros materiales creados por el Titular.
-
 Esta licencia no transmite la titularidad de los derechos de propiedad intelectual, industrial o cualesquiera otros derechos sobre la Obra. Únicamente concede una autorización de uso limitada, no exclusiva, gratuita, mundial, revocable en caso de incumplimiento y condicionada al respeto íntegro de las cláusulas siguientes.
 Todos los derechos no concedidos expresamente por esta licencia quedan reservados al Titular.
 
 2. Aceptación de la licencia
 La descarga, instalación, ejecución, copia, reproducción, distribución, comunicación pública, puesta a disposición, modificación, adaptación, compilación, empaquetado, redistribución o cualquier otro uso de la Obra implica la aceptación íntegra de esta licencia.
-
 Si una persona física o jurídica no acepta esta licencia, no queda autorizada a usar, copiar, instalar, ejecutar, modificar, distribuir, poner a disposición ni explotar la Obra, salvo en aquellos supuestos que resulten permitidos de forma imperativa por la legislación aplicable.
-
 La persona que actúe en nombre de una entidad, empresa, centro educativo, academia, organización, asociación, administración, fundación o cualquier otra persona jurídica declara que cuenta con facultades suficientes para aceptar esta licencia en nombre de dicha entidad.
 
 3. Definiciones
 A efectos de esta licencia, los siguientes términos tendrán el significado que se indica a continuación:
-
 	Obra Original: la versión de la Obra publicada directamente por el Titular en la URL oficial indicada al comienzo de esta licencia, o en cualquier nueva URL oficial que el Titular comunique posteriormente de forma pública y verificable.
-
 	Código Fuente: la forma preferente de la Obra para realizar modificaciones, incluyendo archivos fuente, recursos propios, scripts de construcción, instrucciones de compilación, instrucciones de empaquetado, archivos de configuración, documentación técnica y cualquier otro material razonablemente necesario para estudiar, modificar, compilar, empaquetar, ejecutar o generar la Obra o una Versión Modificada.
-
 	Ejecutable o Binario: cualquier versión compilada, empaquetada, convertida, instalada, portable o lista para ejecutar de la Obra, incluyendo archivos .exe, instaladores, paquetes comprimidos, aplicaciones portables, paquetes para sistemas operativos, aplicaciones de escritorio, contenedores, imágenes, bundles o formatos equivalentes.
-
 	Versión Modificada: cualquier alteración, adaptación, traducción, corrección, ampliación, reducción, reestructuración, integración, derivación, compilación personalizada, empaquetado modificado, cambio funcional, cambio visual, cambio de interfaz, sustitución de recursos, modificación de contenidos, combinación con otros elementos o transformación de la Obra, total o parcial, realizada por una persona distinta del Titular o no publicada directamente por el Titular como Obra Original.
-
 	Distribución: cualquier acto de entrega, publicación, subida, alojamiento, descarga, copia, envío, transferencia, cesión, inclusión en repositorios, inclusión en páginas web, facilitación de enlaces, comunicación pública, puesta a disposición o cualquier otra forma de facilitar el acceso a la Obra o a una Versión Modificada, por medios físicos, digitales, telemáticos, locales, remotos o equivalentes.
-
 	Uso en Contexto Comercial: uso de la Obra por parte de una persona, empresa, academia, centro educativo, profesional autónomo, entidad privada, entidad pública, asociación u organización que desarrolla una actividad económica, profesional, docente, formativa, institucional o empresarial, siempre que dicho uso sea interno, auxiliar, accesorio, instrumental o complementario, y no consista en vender, alquilar, licenciar, sublicenciar, empaquetar, monetizar, revender, restringir mediante pago ni explotar económicamente la Obra como producto, servicio, contenido, recurso independiente, reclamo principal o parte sustancial de una oferta comercial.
-
 	Explotación Comercial No Autorizada: cualquier acto por el que se obtenga, se pretenda obtener o se facilite la obtención de un beneficio económico directo o indirecto mediante la venta, alquiler, sublicencia, suscripción, acceso restringido de pago, inclusión en productos de pago, inclusión en servicios de pago, inclusión en paquetes comerciales, monetización publicitaria vinculada principalmente al acceso a la Obra, reventa, intermediación, cesión onerosa, prestación remota comercial, empaquetado comercial, distribución condicionada o aprovechamiento económico de la Obra o de una Versión Modificada como producto, servicio, contenido, reclamo principal o parte sustancial de una oferta comercial.
-
 	Uso Remoto o en Red: la puesta a disposición de la Obra o de una Versión Modificada como servicio accesible a través de redes de comunicación, incluyendo, entre otros, aplicaciones web, APIs, plataformas SaaS, servicios en línea, servidores compartidos, herramientas accesibles mediante navegador, bots, integraciones, servicios automatizados o cualquier modalidad equivalente en la que el usuario acceda a la funcionalidad de la Obra sin recibir necesariamente una copia completa de la misma.
-
 	Entrenamiento de Inteligencia Artificial: cualquier proceso por el que la Obra, su Código Fuente, sus contenidos, textos, datos, ejemplos, ejercicios, explicaciones, documentación, interfaz, estructura, recursos o cualquier parte de ellos sean utilizados como datos de entrada, corpus de entrenamiento, datos de ajuste fino, datos de evaluación, datos de refuerzo, datos de validación, datos sintéticos de partida, datos para extracción de patrones o cualquier otra forma de alimentación, ajuste, evaluación o desarrollo de modelos de inteligencia artificial, aprendizaje automático, redes neuronales, sistemas generativos, sistemas de recomendación, clasificadores automatizados o tecnologías equivalentes.
-
 	Misma Licencia: esta misma licencia, en su versión 1.0, o una versión posterior publicada expresamente por el Titular como sucesora de esta licencia.
-
 	Componentes de Terceros: bibliotecas, dependencias, intérpretes, frameworks, módulos, iconos, tipografías, imágenes, recursos, herramientas, paquetes, instaladores, compiladores, motores, APIs, servicios externos o cualquier otro elemento no creado por el Titular y que pueda estar sujeto a licencias, términos o derechos de terceros.
-
 	Contribución: cualquier aportación, parche, mejora, corrección, traducción, recurso, informe, modificación, propuesta de código, propuesta de documentación o cualquier otro material enviado voluntariamente al Titular por una persona distinta de él con la intención de que pueda ser incorporado total o parcialmente a la Obra.
 
 4. Permisos concedidos
 Siempre que se cumplan todas las condiciones de esta licencia, el Titular autoriza gratuitamente a cualquier persona física o jurídica a realizar los siguientes actos:
-
 1.	Descargar, instalar y ejecutar la Obra.
-
 2.	Copiar y conservar copias de la Obra.
-
 3.	Estudiar, examinar, analizar y probar la Obra.
-
 4.	Usar la Obra con fines personales, educativos, formativos, docentes, profesionales, internos, institucionales o de investigación.
-
 5.	Usar la Obra en centros educativos, academias, clases particulares, cursos, talleres, empresas, asociaciones, organizaciones o actividades remuneradas, siempre que no se cobre por el acceso a la Obra en sí misma ni se explote la Obra como producto, servicio, contenido, reclamo principal o parte sustancial de una oferta comercial.
-
 6.	Distribuir copias exactas y gratuitas de la Obra Original, siempre que se respeten las obligaciones de atribución, acceso a la versión original gratuita, conservación de avisos legales y demás condiciones de esta licencia.
-
 7.	Crear Versiones Modificadas.
-
 8.	Distribuir Versiones Modificadas, siempre que dicha distribución sea gratuita, se realice bajo la Misma Licencia y cumpla íntegramente las condiciones establecidas en este documento.
-
 9.	Generar Ejecutables o Binarios a partir de la Obra o de una Versión Modificada, siempre que la distribución de dichos Ejecutables o Binarios cumpla íntegramente esta licencia.
-
 10.	Publicar reseñas, tutoriales, demostraciones, comentarios, análisis, capturas o explicaciones sobre la Obra, incluso en medios o canales monetizados, siempre que ello no implique distribuir la Obra o una Versión Modificada en condiciones contrarias a esta licencia ni sugerir falsamente patrocinio, aprobación o autoría por parte del Titular.
-
 Los permisos anteriores se conceden únicamente en la medida en que sean necesarios para los usos autorizados y no amparan ningún acto prohibido por esta licencia.
 
 5. Condiciones obligatorias de atribución
 Toda copia, distribución, comunicación pública, puesta a disposición, Versión Modificada, Ejecutable o Binario de la Obra deberá incluir, de forma clara, visible, legible, razonablemente destacada y no engañosa, la siguiente atribución o una fórmula sustancialmente equivalente:
-
 Programa original “Calculadora PAU Andalucía (2026)” creado por Álvaro López Pérez.
 Versión original gratuita disponible en: https://drive.google.com/drive/folders/1wqzLrA6vG_kt93CTAKJ6Gax0JJEQPa__
 Distribuido bajo la Licencia de Uso, Distribución y Adaptación “ALOPPER BY-RC-SA-NAI v1.0”.
-
 La atribución deberá figurar, como mínimo, en todos los lugares siguientes cuando existan o resulten aplicables:
-
 1.	Archivo LICENSE, LICENSE.txt, COPYING o equivalente.
-
 2.	Archivo README, documentación principal, repositorio, página de descarga, ficha pública del proyecto o página desde la que se facilite el acceso a la Obra.
-
 3.	Pantalla “Acerca de”, menú de información, créditos, ayuda, documentación interna o apartado equivalente del programa.
-
 4.	Documentación o página desde la que se distribuya un Ejecutable o Binario.
-
 5.	Aviso visible junto a cualquier enlace de descarga de la Obra o de una Versión Modificada.
-
 6.	Material de distribución, instalación o empaquetado que acompañe a la Obra.
-
 7.	Cuando sea razonablemente posible, incluirla en metadatos, notas de versión, registros de cambios o documentación técnica vinculada a la distribución.
-
 La atribución no podrá presentarse de forma que sugiera falsamente que el Titular respalda, patrocina, aprueba, certifica, avala, controla o participa en una Versión Modificada, producto, servicio, entidad, actividad, curso, plataforma o proyecto de terceros.
-
 No se permite eliminar, ocultar, alterar, dificultar, minimizar, sustituir, hacer ilegible o degradar la atribución al Titular.
 
 6. Obligación de acceso a la Obra Original gratuita
-
 Toda distribución de la Obra o de una Versión Modificada deberá proporcionar una forma clara, visible, funcional, directa y gratuita de acceder a la Obra Original publicada por el Titular.
-
 A tal efecto, deberá incluirse la URL oficial indicada al comienzo de esta licencia o, si dicha URL cambia, la nueva URL oficial publicada por el Titular de forma pública y verificable.
-
 No se permite ocultar, eliminar, dificultar, sustituir, degradar, bloquear, intermediar de forma abusiva ni condicionar mediante pago, registro comercial, publicidad obligatoria, suscripción, sistema de puntos, captación de datos o mecanismo equivalente el acceso a la Obra Original gratuita.
-
 Si la URL oficial dejara de estar operativa de forma permanente y el Titular no hubiera publicado una nueva URL oficial, esta obligación concreta quedará temporalmente en suspenso hasta que el Titular habilite una nueva dirección. Durante ese período, quien distribuya la Obra o una Versión Modificada deberá indicar de forma visible que la URL oficial no está disponible temporalmente y, cuando sea razonablemente posible, enlazar a una copia archivada, verificable y pública de la Obra Original.
 
 7. Condiciones para Versiones Modificadas
 Quien cree, publique, distribuya o ponga a disposición una Versión Modificada deberá cumplir todas las condiciones siguientes:
-
 1.	Indicar de forma clara que se trata de una Versión Modificada y no de la Obra Original.
-
 2.	Identificar a la persona física o jurídica responsable de la modificación.
-
 3.	Describir de forma suficiente, comprensible y razonable los cambios principales realizados.
-
 4.	Indicar la fecha, número de versión o referencia de la modificación.
-
 5.	Conservar la atribución al Titular de la Obra Original.
-
 6.	Conservar una forma visible, funcional y gratuita de acceso a la Obra Original.
-
 7.	Distribuir la Versión Modificada bajo la Misma Licencia.
-
 8.	Incluir una copia completa de esta licencia o un enlace claro, visible y funcional a ella.
-
 9.	No imponer condiciones adicionales que limiten, contradigan o dificulten los derechos concedidos por esta licencia.
-
 10.	No aplicar medidas técnicas, contractuales, digitales, tecnológicas, de gestión de derechos, ofuscación abusiva, bloqueo, cifrado restrictivo o barreras equivalentes que impidan o dificulten el ejercicio de los permisos concedidos por esta licencia.
-
 11.	No presentar la Versión Modificada como si fuera la Obra Original.
-
 12.	No usar el nombre, seudónimo, marca, logotipo, imagen, identidad, reputación o elementos distintivos del Titular para promocionar la Versión Modificada sin autorización previa, expresa y por escrito.
-
 13.	No atribuir al Titular errores, daños, funcionalidades, decisiones de diseño, cambios, contenidos o comportamientos añadidos por terceros.
 14.	Cumplir las licencias de los Componentes de Terceros que se incorporen o utilicen.
-
 Toda Versión Modificada deberá incluir un archivo CHANGELOG, CAMBIOS, nota de versión, historial de modificaciones, apartado documental o aviso equivalente que permita conocer razonablemente qué se ha cambiado respecto de la Obra Original o respecto de versiones modificadas anteriores.
-
 El mero cambio de formato, empaquetado, compilación o conversión a Ejecutable o Binario podrá considerarse Versión Modificada cuando altere la estructura, funcionalidad, contenidos, dependencias, experiencia de uso, condiciones de instalación o condiciones de acceso a la Obra.
 
 8. Distribución de Ejecutables, Binarios e instaladores
 Quien distribuya un Ejecutable, Binario, instalador, archivo .exe, paquete portable, contenedor, imagen, bundle o forma equivalente de la Obra o de una Versión Modificada deberá cumplir, además de las restantes condiciones de esta licencia, las siguientes obligaciones:
-
 1.	Distribuirlo gratuitamente.
-
 2.	Incluir esta licencia completa o un enlace claro, visible y funcional a esta licencia.
-
 3.	Incluir la atribución exigida por esta licencia.
-
 4.	Indicar si el Ejecutable o Binario procede de la Obra Original o de una Versión Modificada.
-
 5.	Identificar, en su caso, a la persona física o jurídica que ha compilado, empaquetado, preparado o distribuido el Ejecutable o Binario.
-
 6.	Proporcionar acceso gratuito, claro y funcional al Código Fuente correspondiente de la versión exacta distribuida.
-
 7.	Proporcionar instrucciones razonables para compilar, empaquetar, generar, instalar y ejecutar el Ejecutable o Binario.
-
 8.	Indicar, como mínimo, la versión del intérprete, compilador o herramienta principal utilizada, el sistema operativo y arquitectura compatibles, las dependencias relevantes y sus versiones, y los pasos básicos de instalación, compilación, empaquetado y ejecución.
-
 9.	Identificar, en la medida razonablemente posible, las dependencias y Componentes de Terceros utilizados.
-
 10.	No presentar el Ejecutable o Binario como versión oficial del Titular si no ha sido publicado directamente por el Titular.
-
 11.	No incluir componentes maliciosos, publicidad invasiva, telemetría oculta, mineros, spyware, puertas traseras, restricciones técnicas o mecanismos que alteren sustancialmente el uso de la Obra sin advertencia clara, expresa y previa.
-
 12.	No imponer al usuario condiciones más restrictivas que las previstas en esta licencia.
-
 El Código Fuente correspondiente deberá estar disponible, como mínimo, durante todo el tiempo en que se distribuya el Ejecutable o Binario correspondiente y por un período razonable posterior cuando sea necesario para que las personas que hayan obtenido el Ejecutable o Binario puedan ejercer los derechos concedidos por esta licencia.
-
 La obligación de proporcionar Código Fuente correspondiente no se satisface mediante la entrega de código incompleto, obsoleto, incompatible, irrazonablemente difícil de compilar, carente de instrucciones esenciales o correspondiente a una versión distinta de la efectivamente distribuida.
 
 9. Prohibición de explotación comercial no autorizada
 Salvo autorización previa, expresa y por escrito del Titular, queda prohibida cualquier Explotación Comercial No Autorizada de la Obra o de cualquier Versión Modificada.
 En particular, no se permite:
-
 1.	Vender la Obra, su Código Fuente, sus Ejecutables, sus Binarios, sus instaladores, su documentación o sus contenidos.
-
 2.	Vender Versiones Modificadas.
-
 3.	Alquilar, sublicenciar, revender, ceder onerosamente o comercializar la Obra o Versiones Modificadas.
-
 4.	Incluir la Obra o Versiones Modificadas en productos, cursos, packs, repositorios, plataformas, membresías, suscripciones, servicios, descargas, materiales o contenidos de pago cuando el cobro al usuario dé acceso, total o parcial, a la Obra como elemento de valor.
-
 5.	Poner la Obra o Versiones Modificadas detrás de muros de pago, registros obligatorios con finalidad comercial, publicidad obligatoria, monetización condicionada, sistemas de puntos, captación de datos con finalidad comercial o restricciones equivalentes.
-
 6.	Usar la Obra o Versiones Modificadas como reclamo comercial principal de una oferta, servicio, plataforma, curso, producto o actividad.
-
 7.	Monetizar principalmente el acceso a la Obra o a una Versión Modificada mediante publicidad, afiliación, descargas remuneradas, acortadores de enlaces de pago, sistemas de referidos, suscripciones, donaciones condicionadas o mecanismos equivalentes.
-
 8.	Retirar, ocultar o sustituir la atribución al Titular o el enlace a la Obra Original gratuita.
-
 9.	Distribuir la Obra o Versiones Modificadas bajo términos más restrictivos, privativos, cerrados o incompatibles con esta licencia.
-
 10.	Impedir que terceras personas obtengan gratuitamente la Obra Original desde la fuente oficial.
-
 11.	Registrar como marca, producto, obra propia exclusiva, dominio, denominación comercial, repositorio oficial, aplicación oficial o signo confundible la Obra, su nombre, sus elementos distintivos o una Versión Modificada, cuando ello limite los derechos del Titular o genere confusión sobre la autoría, origen, oficialidad o aprobación.
 12.	Ofrecer la Obra o una Versión Modificada como servicio remoto de carácter comercial sin autorización del Titular.
-
 13.	Usar la Obra o una Versión Modificada para captar clientes, vender servicios, vender materiales o promocionar productos cuando el acceso a la Obra sea el elemento principal o sustancial de la oferta comercial.
-
 14.	Condicionar la descarga, instalación, ejecución o uso de la Obra a la aceptación de términos incompatibles con esta licencia.
-
 Para la aplicación de esta cláusula, el criterio relevante será si la Obra o una Versión Modificada se utiliza como objeto directo de explotación económica, como elemento de valor por el que se cobra o como reclamo principal o sustancial de una actividad comercial.
- 
+
 10. Usos profesionales, docentes o comerciales permitidos de forma limitada
 La presente licencia permite determinados usos en contextos profesionales, docentes, institucionales o económicamente remunerados, siempre que la Obra no sea explotada comercialmente en sí misma.
-
 Se consideran permitidos, entre otros, los siguientes usos:
-
 1.	Una academia, centro educativo, profesor, formador o preparador puede utilizar la Obra durante clases, cursos, talleres o actividades remuneradas, siempre que no cobre por el acceso a la Obra en sí misma, no la presente como producto propio y mantenga la atribución y el acceso a la Obra Original gratuita.
-
 2.	Una empresa, profesional autónomo, entidad pública, asociación u organización puede usar la Obra como herramienta auxiliar, interna o instrumental en su actividad, siempre que no cobre por instalarla, acceder a ella, distribuirla o usarla como producto o servicio independiente.
-
 3.	Una entidad puede instalar la Obra en sus equipos para uso interno, docente, formativo o administrativo, siempre que no cobre por la Obra ni limite el acceso a la Obra Original gratuita.
-
 4.	Una persona puede publicar reseñas, tutoriales, explicaciones, comparativas, demostraciones o vídeos sobre la Obra en medios monetizados, siempre que no distribuya la Obra o una Versión Modificada de forma contraria a esta licencia, no oculte la autoría y no sugiera patrocinio, aprobación o autoría por parte del Titular.
-
 5.	Una persona puede cobrar por servicios personalizados de instalación, configuración, formación, adaptación técnica, soporte, consultoría o asistencia relacionados con la Obra, siempre que el cobro corresponda claramente al servicio personalizado prestado y no al derecho de uso, acceso, descarga, licencia, copia, distribución o explotación de la Obra.
-
 6.	Una entidad puede mencionar la Obra como herramienta utilizada en su actividad, siempre que lo haga de forma veraz, no engañosa y compatible con las obligaciones de atribución.
-
 Estos usos permitidos no autorizan la venta, reventa, empaquetado comercial, acceso de pago, sublicencia, alquiler, monetización vinculada principalmente al acceso, restricción comercial de descargas, integración en productos de pago como elemento de valor ni cualquier otra forma de Explotación Comercial No Autorizada.
 
 11. Uso remoto o en red
 Queda prohibido ofrecer la Obra o una Versión Modificada como servicio remoto accesible a través de redes de comunicación —incluidas aplicaciones web, APIs, plataformas SaaS, bots, servicios en línea, herramientas mediante navegador, integraciones o modalidades equivalentes— cuando dicho servicio tenga carácter comercial, sea de pago, genere ingresos directos o indirectos mediante suscripción, publicidad, monetización por uso, afiliación, captación comercial de datos u otro mecanismo equivalente, o forme parte de una oferta comercial más amplia como elemento de valor principal o sustancial, salvo autorización previa, expresa y por escrito del Titular.
-
 El uso remoto o en red de carácter no comercial está permitido siempre que:
-
 1.	El acceso sea gratuito para todos los usuarios.
-
 2.	No exista monetización directa ni indirecta vinculada principalmente al acceso o uso de la Obra.
-
 3.	Se cumplan las obligaciones de atribución.
-
 4.	Se proporcione acceso visible a la Obra Original gratuita.
-
 5.	Se indique si el servicio se basa en la Obra Original o en una Versión Modificada.
-
 6.	Cuando exista una Versión Modificada, se publique bajo la Misma Licencia y se facilite acceso al Código Fuente correspondiente.
-
 7.	No se impongan medidas técnicas o contractuales incompatibles con esta licencia.
-
 El hecho de prestar acceso remoto a la funcionalidad de la Obra no exime del cumplimiento de las obligaciones aplicables a las Versiones Modificadas, al Código Fuente correspondiente ni a la conservación de avisos legales.
 
 12. Prohibición de uso para entrenamiento, desarrollo o explotación de inteligencia artificial
 Queda expresamente prohibido utilizar la Obra o cualquier parte de ella, incluyendo su Código Fuente, documentación, contenidos, textos, ejercicios, explicaciones, ejemplos, datos, estructuras, recursos, interfaz, imágenes, esquemas o materiales asociados, para Entrenamiento de Inteligencia Artificial sin autorización previa, expresa y por escrito del Titular.
-
 Esta prohibición incluye, entre otros, los siguientes actos:
-
 1.	Usar la Obra como corpus de entrenamiento, ajuste fino, evaluación, refuerzo, validación o prueba de modelos de inteligencia artificial o aprendizaje automático.
-
 2.	Incorporar la Obra o cualquier parte de ella a conjuntos de datos destinados al entrenamiento, ajuste, evaluación, validación o mejora de sistemas de inteligencia artificial.
-
 3.	Realizar extracción, raspado, indexación automatizada, minería de datos, minería de textos, análisis masivo o procesamiento automatizado de la Obra con fines de entrenamiento, ajuste, evaluación o desarrollo de sistemas de inteligencia artificial.
-
 4.	Usar la Obra para generar, mediante sistemas de inteligencia artificial, código, contenidos, materiales, explicaciones, interfaces, datasets, programas o productos que se distribuyan como propios sin cumplir esta licencia.
-
 5.	Usar la Obra para evaluar, comparar, depurar, mejorar o reforzar modelos de inteligencia artificial.
-
 6.	Usar la Obra como base para sistemas generativos, asistentes automatizados, agentes, tutores, recomendadores, clasificadores o herramientas similares cuando dicho uso implique entrenamiento, ajuste, extracción sistemática o explotación de sus contenidos.
-
 7.	Eliminar, ocultar o sustituir avisos de autoría, licencia o procedencia con el fin de incorporar la Obra a sistemas, datasets o procesos de inteligencia artificial.
 Esta prohibición se aplica con independencia de que el uso tenga fines comerciales, no comerciales, privados, internos, académicos, experimentales o de investigación, salvo que una norma imperativa aplicable establezca lo contrario.
-
 La mera utilización ordinaria de la Obra por una persona usuaria, sin extracción sistemática ni incorporación a procesos de entrenamiento, ajuste, evaluación o desarrollo de inteligencia artificial, no se considerará por sí sola Entrenamiento de Inteligencia Artificial.
- 
+
 13. Componentes de terceros
 Esta licencia solo se aplica a los derechos que correspondan al Titular sobre la Obra.
-
 Los Componentes de Terceros se rigen por sus propias licencias, términos y condiciones. El uso, copia, modificación, distribución, compilación o inclusión de dichos Componentes de Terceros deberá cumplir las condiciones establecidas por sus respectivos titulares.
-
 Nada en esta licencia debe interpretarse como una concesión de derechos sobre Componentes de Terceros que el Titular no esté autorizado a licenciar.
-
 Quien distribuya la Obra o una Versión Modificada será responsable de verificar y cumplir las licencias de las dependencias, bibliotecas, intérpretes, frameworks, módulos, recursos, iconos, tipografías, herramientas, instaladores, compiladores, APIs o cualesquiera Componentes de Terceros incluidos o necesarios para dicha distribución.
-
 Cuando sea razonablemente posible, quien distribuya la Obra o una Versión Modificada deberá identificar los Componentes de Terceros relevantes y conservar sus avisos de copyright, licencias, atribuciones y exenciones de responsabilidad.
 
 14. Contribuciones externas
 Toda Contribución enviada voluntariamente al Titular con la intención de que pueda ser incorporada a la Obra se entenderá autorizada al Titular, con carácter gratuito, no exclusivo, mundial y por todo el plazo legal de protección, para usarla, reproducirla, modificarla, adaptarla, integrarla, distribuirla, comunicarla públicamente, ponerla a disposición y sublicenciarla como parte de la Obra bajo esta licencia o bajo versiones posteriores de la misma.
-
 El contribuyente declara y garantiza que tiene derecho suficiente para realizar la Contribución y que esta no infringe, hasta donde razonablemente conoce, derechos de propiedad intelectual, propiedad industrial, secretos empresariales, derechos de imagen, derechos de protección de datos, obligaciones contractuales ni otros derechos de terceros.
-
 El Titular no está obligado a aceptar, revisar, responder, publicar, mantener ni incorporar ninguna Contribución.
-
 La incorporación de una Contribución a la Obra no convierte al contribuyente en cotitular de la Obra en su conjunto, salvo pacto escrito en contrario.
 
 15. Conservación de avisos legales
 No se permite eliminar, ocultar, alterar, hacer ilegibles o degradar los avisos de copyright, autoría, licencia, atribución, exención de garantía, enlaces oficiales, indicaciones de modificación, avisos de terceros o referencias legales incluidos en la Obra.
-
 Solo podrán añadirse avisos propios en una Versión Modificada cuando ello no elimine, oculte, contradiga ni dificulte la lectura de los avisos originales.
-
 Toda copia distribuida de la Obra o de una Versión Modificada deberá incluir una copia completa de esta licencia o un enlace claro, visible, funcional y gratuito a ella.
 
 16. Marcas, nombres, logotipos e identidad del Titular
 Esta licencia no concede ningún derecho sobre marcas, nombres comerciales, logotipos, signos distintivos, seudónimos, imagen, identidad pública, denominaciones de proyecto, dominios, nombres de usuario, redes sociales, elementos gráficos identificativos o reputación del Titular, salvo el uso estrictamente necesario para cumplir la obligación de atribución.
-
 No se permite usar dichos elementos para sugerir patrocinio, aprobación, afiliación, certificación, colaboración, oficialidad o respaldo por parte del Titular sin autorización previa, expresa y por escrito.
-
 Las Versiones Modificadas deberán evitar cualquier presentación que pueda generar confusión razonable sobre su origen, autoría, mantenimiento, oficialidad o relación con el Titular.
 
 17. Derechos de patente y otros derechos no licenciados
 Esta licencia no concede ningún derecho de patente sobre la Obra ni sobre métodos, algoritmos, procesos, procedimientos, invenciones o implementaciones que pudieran estar incorporados a ella.
-
 Si el Titular fuera titular de alguna patente aplicable a la Obra, dicha patente no queda licenciada por la presente licencia salvo declaración expresa en contrario por escrito.
-
 El Titular no garantiza que el uso, modificación, distribución o explotación de la Obra no infrinja patentes, marcas, secretos empresariales, derechos de imagen, derechos de protección de datos u otros derechos de terceros.
-
 La persona que use, modifique o distribuya la Obra será responsable de verificar que su actuación cumple la normativa aplicable en su jurisdicción.
 
 18. Protección de datos, seguridad y usos indebidos
 Esta licencia no autoriza el uso de la Obra para fines ilícitos, fraudulentos, engañosos, lesivos, abusivos, contrarios a la normativa de protección de datos, contrarios a derechos de terceros o incompatibles con la legislación aplicable.
-
 Quien modifique, publique, aloje, distribuya o preste acceso a la Obra será responsable de cumplir las obligaciones legales que pudieran corresponderle en materia de protección de datos, seguridad, información al usuario, consumo, servicios de la sociedad de la información, accesibilidad, publicidad, menores, educación, comercio electrónico o cualquier otra normativa aplicable.
-
 El Titular no será responsable de tratamientos de datos, integraciones, servicios externos, funcionalidades añadidas, vulnerabilidades, comunicaciones, formularios, analíticas, telemetrías o mecanismos incorporados por terceros en Versiones Modificadas o redistribuciones no oficiales.
 
 19. Ausencia de garantía
 La Obra se proporciona “tal cual” y “según disponibilidad”.
-
 En la máxima medida permitida por la ley aplicable, el Titular no ofrece garantías de ningún tipo, expresas o implícitas, incluyendo, sin carácter limitativo, garantías de funcionamiento ininterrumpido, ausencia de errores, adecuación a un fin particular, compatibilidad, seguridad, exactitud, disponibilidad, integridad, ausencia de pérdida de datos, ausencia de vulnerabilidades, ausencia de componentes maliciosos introducidos por terceros, ausencia de infracción de derechos de terceros o mantenimiento futuro.
-
 El uso de la Obra se realiza bajo la exclusiva responsabilidad de quien la utiliza.
-
 El Titular no garantiza que la Obra sea adecuada para calcular, decidir, evaluar, certificar, sustituir asesoramiento profesional, cumplir requisitos académicos, cumplir requisitos administrativos o producir resultados exactos en todos los casos.
 
 20. Limitación de responsabilidad
 En la máxima medida permitida por la ley aplicable, el Titular no será responsable de daños directos, indirectos, incidentales, especiales, punitivos, consecuenciales, pérdida de datos, pérdida de beneficios, interrupción de actividad, daños informáticos, fallos de seguridad, incompatibilidades, errores de uso, decisiones tomadas a partir de la Obra, resultados incorrectos, daños derivados de modificaciones de terceros, daños derivados de Componentes de Terceros o daños derivados del uso, imposibilidad de uso, modificación, distribución, comunicación pública o puesta a disposición de la Obra.
-
 Esta limitación no excluirá ni limitará responsabilidades que no puedan excluirse o limitarse conforme a la legislación aplicable.
 
 21. Responsabilidad de quien modifica, distribuye o presta acceso
 Quien modifique, compile, empaquete, distribuya, publique, aloje, comunique públicamente, ponga a disposición o preste acceso a la Obra o a una Versión Modificada será responsable de sus propios actos, de las modificaciones realizadas, de los contenidos que añada, de los Componentes de Terceros que incorpore, de las instrucciones que facilite, de los servicios que preste, de los daños que sus cambios puedan causar y del cumplimiento de esta licencia y de la normativa aplicable.
-
 El Titular no será responsable de Versiones Modificadas, copias no oficiales, redistribuciones, empaquetados, instaladores, binarios, servicios remotos, repositorios, páginas web, contenidos, instrucciones, integraciones o materiales publicados por terceros.
-
 Toda persona que distribuya una Versión Modificada deberá adoptar medidas razonables para evitar que se confunda con la Obra Original.
  
 22. Terminación por incumplimiento
 22.1. Terminación automática
 El incumplimiento de cualquiera de las condiciones esenciales de esta licencia producirá la terminación automática de los derechos concedidos a la persona incumplidora respecto de la Obra o de la Versión Modificada afectada, sin perjuicio de las acciones legales que pudieran corresponder al Titular.
-
 Se considerarán incumplimientos esenciales, entre otros:
-
 1.	La Explotación Comercial No Autorizada de la Obra o de una Versión Modificada.
-
 2.	El uso de la Obra para Entrenamiento de Inteligencia Artificial sin autorización del Titular.
-
 3.	La supresión deliberada de la atribución al Titular.
-
 4.	La eliminación u ocultación deliberada del enlace a la Obra Original gratuita.
-
 5.	La distribución de la Obra o de una Versión Modificada bajo términos incompatibles con esta licencia.
-
 6.	La venta, sublicencia, alquiler, reventa o puesta detrás de pago de la Obra o de una Versión Modificada.
-
 7.	La imposición de medidas técnicas o contractuales que impidan ejercer los derechos concedidos por esta licencia.
-
 8.	La presentación engañosa de una Versión Modificada como si fuera la Obra Original u oficial del Titular.
 
 22.2. Subsanación de incumplimientos no esenciales
 Para incumplimientos formales, accidentales o no esenciales que sean razonablemente subsanables, el Titular podrá notificar a la persona incumplidora el incumplimiento por cualquier medio razonable. Desde la recepción de dicha notificación, la persona dispondrá de treinta (30) días naturales para subsanar el incumplimiento de forma completa y efectiva.
-
 Si la persona subsana el incumplimiento dentro de dicho plazo, los derechos concedidos podrán entenderse restablecidos desde la fecha de subsanación, sin perjuicio de las acciones que pudieran corresponder al Titular por daños, perjuicios o incumplimientos anteriores.
 
 22.3. Efectos de la terminación
 Desde el momento de la terminación, la persona afectada deberá cesar inmediatamente todo uso, copia, distribución, comunicación pública, puesta a disposición, modificación, explotación o acceso no autorizado a la Obra o a la Versión Modificada afectada.
-
 La terminación de los derechos de una persona incumplidora no afectará necesariamente a los derechos de terceros que hayan recibido copias de buena fe y que cumplan íntegramente esta licencia.
-
 El Titular podrá restablecer los derechos de una persona incumplidora mediante autorización expresa y por escrito.
 
 23. Autorizaciones adicionales y licencias separadas
 El Titular podrá conceder autorizaciones adicionales, excepciones, licencias comerciales, permisos especiales o acuerdos individuales por escrito.
 Las solicitudes de autorización podrán dirigirse al correo de contacto indicado al comienzo de esta licencia.
-
 Dichas autorizaciones solo serán válidas para las personas, usos, plazos, territorios y condiciones expresamente indicados en ellas, y no modificarán esta licencia para el resto de usuarios.
-
 La falta de ejercicio inmediato de un derecho por parte del Titular no constituirá renuncia a dicho derecho.
-
 El Titular podrá distribuir la Obra bajo otras licencias o condiciones distintas para personas o usos concretos, sin que ello afecte a las condiciones aplicables a las copias distribuidas bajo esta licencia.
 
 24. Versiones posteriores de la licencia
 El Titular podrá publicar versiones posteriores de esta licencia con el fin de aclarar, actualizar, corregir, adaptar o ampliar sus condiciones.
-
 Las copias de la Obra o Versiones Modificadas distribuidas bajo esta versión 1.0 podrán seguir utilizándose bajo esta versión, salvo que la persona distribuidora opte expresamente por una versión posterior publicada por el Titular como sucesora de esta licencia.
-
 Cuando esta licencia exija distribuir bajo la Misma Licencia, se entenderá cumplida dicha obligación mediante el uso de esta versión 1.0 o de una versión posterior publicada expresamente por el Titular como sucesora de esta licencia.
-
 Ninguna persona distinta del Titular podrá publicar versiones sucesoras de esta licencia en nombre del Titular.
 
 25. Interpretación
 Los títulos de las cláusulas tienen finalidad meramente orientativa y no limitarán la interpretación del contenido de la licencia.
-
 Los ejemplos incluidos en esta licencia tienen finalidad aclaratoria. En caso de contradicción entre un ejemplo y una cláusula general, prevalecerá la interpretación que mejor proteja la autoría, la gratuidad, el acceso a la Obra Original, la obligación de atribución, la prohibición de Explotación Comercial No Autorizada, la prohibición de Entrenamiento de Inteligencia Artificial y la obligación de compartir las Versiones Modificadas bajo la Misma Licencia.
-
 Si alguna cláusula de esta licencia fuese considerada inválida, nula, ineficaz o inaplicable, total o parcialmente, ello no afectará a la validez del resto de cláusulas. La cláusula afectada se interpretará, limitará o sustituirá por una disposición válida que se aproxime lo máximo posible a la finalidad económica, técnica y jurídica perseguida.
 Nada en esta licencia limita derechos irrenunciables, excepciones legales obligatorias, usos permitidos por ley o facultades que no requieran autorización del Titular conforme a la normativa aplicable.
 
 26. Ley aplicable y jurisdicción
 Esta licencia se regirá e interpretará conforme al Derecho español, sin perjuicio de las normas imperativas que pudieran resultar aplicables en la jurisdicción del usuario.
-
 Para cualquier controversia derivada de esta licencia, las partes se someterán a los juzgados y tribunales que resulten competentes conforme a la normativa aplicable.
-
 Cuando la ley permita pactar fuero de forma válida, las partes se someten expresamente a los juzgados y tribunales de Granada, España, con renuncia a cualquier otro fuero que pudiera corresponderles.
-
 En aquellos casos en que las normas imperativas de la jurisdicción del usuario, del consumidor o de la materia litigiosa no permitan la sumisión pactada, se aplicará el fuero que resulte legalmente competente.
 
 27. Aviso abreviado recomendado
 Se recomienda incluir en los archivos principales del proyecto, en la documentación, en el repositorio y en la pantalla de información del programa el siguiente aviso abreviado:
-
-Copyright © 2026 Álvaro López Pérez
-Programa original: Calculadora PAU Andalucía (2026)
-Versión original gratuita disponible en: https://drive.google.com/drive/folders/1wqzLrA6vG_kt93CTAKJ6Gax0JJEQPa__
-Este programa se distribuye bajo la Licencia de Uso, Distribución y Adaptación “ALOPPER BY-RC-SA-NAI v1.0”.
-Se permite su uso, copia, distribución gratuita y modificación bajo la misma licencia, con atribución obligatoria, indicación de cambios y enlace visible a la versión original gratuita.
-No se permite vender, sublicenciar, alquilar, poner detrás de una suscripción, incluir en productos de pago, explotar comercialmente, ofrecer como servicio remoto comercial ni usar para entrenar, ajustar, evaluar o desarrollar sistemas de inteligencia artificial el programa, sus contenidos o versiones modificadas, sin autorización previa, expresa y por escrito del titular.
-Consultas sobre autorizaciones: alopper8@gmail.com
+	Copyright © 2026 Álvaro López Pérez
+	Programa original: Calculadora PAU Andalucía (2026)
+	Versión original gratuita disponible en: 	https://drive.google.com/drive/folders/1wqzLrA6vG_kt93CTAKJ6Gax0JJEQPa__
+	Este programa se distribuye bajo la Licencia de Uso, Distribución y Adaptación “ALOPPER BY-RC-SA-NAI v1.0”.
+	Se permite su uso, copia, distribución gratuita y modificación bajo la misma licencia, con atribución obligatoria, indicación de cambios y enlace visible a la versión original gratuita.
+	No se permite vender, sublicenciar, alquilar, poner detrás de una suscripción, incluir en productos de pago, explotar comercialmente, ofrecer como servicio remoto comercial ni usar para entrenar, ajustar, evaluar o desarrollar sistemas de inteligencia artificial el programa, sus contenidos o versiones modificadas, sin autorización previa, expresa y por escrito del titular.
+	Consultas sobre autorizaciones: alopper8@gmail.com
 
 28. Texto breve para cabeceras de archivos fuente
 Cuando sea razonable, podrá incluirse en los archivos fuente principales el siguiente aviso:
-
-Copyright © 2026 Álvaro López Pérez
-Este archivo forma parte de "Calculadora PAU Andalucía 2026".
-
-"Calculadora PAU Andalucía (2026)” se distribuye bajo la Licencia de Uso, Distribución y Adaptación “ALOPPER BY-RC-SA-NAI v1.0”
-Texto completo en LICENSE.txt
-Se permite el uso, copia, distribución gratuita y modificación bajo la misma licencia, con atribución obligatoria y enlace a la versión original gratuita.
-
-Versión original gratuita: https://drive.google.com/drive/folders/1wqzLrA6vG_kt93CTAKJ6Gax0JJEQPa__
-Repositorio oficial: https://github.com/Alvaro-Lopez-Perez8/Calculadora-PAU-Andalucia.git
-
-No se permite vender, sublicenciar, explotar comercialmente, poner detrás de pago ni usar este archivo, el programa o sus contenidos para entrenamiento, ajuste, evaluación o desarrollo de sistemas de inteligencia artificial sin autorización previa, expresa y por escrito del titular.
+	Copyright © 2026 Álvaro López Pérez
+	Este archivo forma parte de "Calculadora PAU Andalucía (2026)".
+	“Calculadora PAU Andalucía (2026)” se distribuye bajo la Licencia de Uso, Distribución y Adaptación “ALOPPER BY-RC-SA-NAI v1.0”
+	Texto completo en LICENSE.txt
+	Se permite el uso, copia, distribución gratuita y modificación bajo la misma licencia, con atribución obligatoria y enlace a la versión original gratuita.
+	Versión original gratuita: https://drive.google.com/drive/folders/1wqzLrA6vG_kt93CTAKJ6Gax0JJEQPa__
+	Repositorio oficial: https://github.com/Alvaro-Lopez-Perez8/Calculadora-PAU-Andalucia.git
+	No se permite vender, sublicenciar, explotar comercialmente, poner detrás de pago ni usar este archivo, el programa o sus contenidos para entrenamiento, ajuste, evaluación o desarrollo de sistemas de inteligencia artificial sin autorización previa, expresa y por escrito del titular.
 
 29. Resumen no vinculante
 Este resumen se incluye únicamente para facilitar la comprensión de la licencia y no sustituye al texto legal completo.
-
 Puedes usar, copiar, compartir y modificar la Obra, incluso en contextos educativos, profesionales o remunerados, siempre que:
-
 1.	Des crédito al autor original.
-
 2.	Enlaces de forma visible la versión original gratuita.
-
 3.	Indiques claramente los cambios si modificas la Obra.
-
 4.	Compartas cualquier Versión Modificada bajo esta misma licencia.
-
 5.	Distribuyas gratuitamente la Obra y sus Versiones Modificadas.
-
 6.	Proporciones el Código Fuente correspondiente si distribuyes ejecutables, binarios o instaladores.
-
 7.	No vendas, revendas, alquiles, sublicencies, empaquetes comercialmente, pongas detrás de pago ni explotes económicamente la Obra o sus modificaciones.
-
 8.	No ofrezcas la Obra o sus modificaciones como servicio remoto comercial sin autorización.
-
 9.	No uses la Obra, su código, sus contenidos o sus datos para entrenar, ajustar, evaluar o desarrollar sistemas de inteligencia artificial sin autorización.
-
 10.	No hagas creer que una Versión Modificada es oficial o está aprobada por el Titular si no lo está.
-
-Para cualquier uso no cubierto por esta licencia, debe solicitarse autorización previa, expresa y por escrito al Titular en la dirección de contacto indicada al comienzo de este documento
+Para cualquier uso no cubierto por esta licencia, debe solicitarse autorización previa, expresa y por escrito al Titular en la dirección de contacto indicada al comienzo de este documento.

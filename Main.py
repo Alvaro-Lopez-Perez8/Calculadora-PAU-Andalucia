@@ -12,6 +12,7 @@
 # ajuste, evaluación o desarrollo de sistemas de inteligencia artificial sin autorización previa, expresa y por escrito del titular.
 
 import sys
+from pathlib import Path
 
 from PySide6.QtWidgets import QApplication, QMainWindow, QMessageBox, QSizePolicy, QComboBox, QLabel
 from PySide6.QtGui import QRegularExpressionValidator, QIcon
@@ -120,6 +121,10 @@ class VentanaPrincipal(QMainWindow):
             f"""
             <h2>Calculadora PAU Andalucía (2026)</h2>
 
+            <p>
+                <b>Versión:</b> Beta-1.0
+            </p>
+            
             <p>
                 <b>Creador:</b> Álvaro López Pérez<br>
                 <b>Contacto:</b> alopper8@gmail.com
@@ -1014,7 +1019,47 @@ class VentanaPrincipal(QMainWindow):
                         notas_ao.append(aux2)
 
         return nombre, media_1B, media_2B, FoH, LE, T, notas_o, ao, notas_ao, SLE
+    
+    def confirmar_informes(self, nombre):
+        #Esta función comprueba que los archivos no existan antes de hacer el informe
+        #Archivos que se van a generar
+        archivos = [Path(nombre + " (Completo).txt"), Path(nombre + " (Margen).txt")]
 
+        #Comprobamos cuáles existen ya
+        existentes = [archivo for archivo in archivos if archivo.exists()]
+
+        #Si no existe ninguno, se puede continuar directamente
+        if not existentes:
+            return True
+
+        #Preparamos el texto de la advertencia
+        lista_archivos = "\n".join(f"• {archivo.name}" for archivo in existentes)
+        
+        #Preguntamos qué se quiere hacer
+        mensaje = QMessageBox(self)
+        mensaje.setWindowTitle("GENERADOR DE ARCHIVOS")
+        mensaje.setIcon(QMessageBox.Icon.Warning)
+
+        mensaje.setText(
+            "Ya existe uno o más informes con el nombre:\n\n"
+            f"{lista_archivos}\n\n"
+            "Si continúas, se sobrescribirán los archivos existentes.\n\n"
+            "¿Quieres continuar de todas formas?"
+        )
+
+        boton_si = mensaje.addButton("Sí", QMessageBox.ButtonRole.YesRole)
+        boton_no = mensaje.addButton("No", QMessageBox.ButtonRole.NoRole)
+
+        mensaje.setDefaultButton(boton_no)
+
+        mensaje.exec()
+
+        if mensaje.clickedButton() == boton_si:
+            return True
+
+        self.ui.Output.append("Proceso interrumpido. No se han generado los informes.")
+        return False
+    
     def calcular(self):
         #Dejamos el Output en blanco
         self.ui.Output.clear()
@@ -1022,7 +1067,12 @@ class VentanaPrincipal(QMainWindow):
         nombre, media_1B, media_2B, FoH, LE, T, notas_o, ao, notas_ao, SLE = self.leer_datos()
         
         #Si todo ha ido bien (Output vacío), generamos los informes
-        if not self.ui.Output.toPlainText().strip():            
+        if not self.ui.Output.toPlainText().strip():
+            
+            #Comprobamos si ya existen informes con ese nombre
+            if not self.confirmar_informes(nombre):
+                return
+            
             self.ui.Output.append("Generando informe completo por carreras...")
             
             error = I.imprimir_informe_completo_carreras(self.year, self.ponderaciones, self.notas_corte, self.carreras, nombre, media_1B, media_2B, FoH, LE, T, notas_o, ao, notas_ao, SLE)
