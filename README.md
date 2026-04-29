@@ -86,10 +86,6 @@ El programa utiliza las siguientes tecnologías, necesarias si se quiere utiliza
 
 
 
-Estructura del proyecto
-
-
-
 ### **Archivos principales**
 
 
