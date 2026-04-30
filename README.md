@@ -10,7 +10,7 @@ El programa calcula la nota ponderada para cada grado disponible, compara el res
 
 
 
-IMPORTANTE
+**IMPORTANTE**
 
 &#x20;- La información proporcionada por este programa es meramente orientativa.
 
