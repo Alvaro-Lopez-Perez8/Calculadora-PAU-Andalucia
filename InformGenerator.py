@@ -49,7 +49,7 @@ def imprimir_informe_simple_margen (year, ponderaciones, notas_corte, carreras, 
         
         #Disclaimer
         doc.write("\nLA INFORMACIÓN PROPORCIONADA EN ESTE DOCUMENTO ES PLENAMENTE ORIENTATIVA, NO IMPLICA NI GARANTIZA EL ACCESO REAL A LA UNIVERSIDAD.\n")
-        doc.write("\nINFORMACIÓN GENERADA A PARTIR DE LAS PONDERACIONES DEL BOJA Número 192 - Lunes, 6 de octubre de 2025 Y DE LAS NOTAS DE CORTE DEL AÑO " + str(year) + " EXTRAÍDAS DEL DISTRITO ÚNICO ANDALUZ.\n")
+        doc.write("\nINFORMACIÓN GENERADA A PARTIR DE LAS PONDERACIONES DEL BOJA Número 112 - Viernes, 12 de junio de 2026 Y DE LAS NOTAS DE CORTE DEL AÑO " + str(year) + " EXTRAÍDAS DEL DISTRITO ÚNICO ANDALUZ.\n")
         doc.write("\nLAS NOTAS GENERADAS EN ESTE INFORME PUEDEN NO COINCIDIR EXACTAMENTE CON LAS REALES.\n")
         
         doc.write("\n------------------------------------------------------------\n") #Separación
@@ -164,7 +164,7 @@ def imprimir_informe_completo_carreras (year, ponderaciones, notas_corte, carrer
         
         #Disclaimer
         doc.write("\nLA INFORMACIÓN PROPORCIONADA EN ESTE DOCUMENTO ES PLENAMENTE ORIENTATIVA, NO IMPLICA NI GARANTIZA EL ACCESO REAL A LA UNIVERSIDAD.\n")
-        doc.write("\nINFORMACIÓN GENERADA A PARTIR DE LAS PONDERACIONES DEL BOJA Número 192 - Lunes, 6 de octubre de 2025 Y DE LAS NOTAS DE CORTE DEL AÑO " + str(year) + " EXTRAÍDAS DEL DISTRITO ÚNICO ANDALUZ.\n")
+        doc.write("\nINFORMACIÓN GENERADA A PARTIR DE LAS PONDERACIONES DEL BOJA Número 112 - Viernes, 12 de junio de 2026 Y DE LAS NOTAS DE CORTE DEL AÑO " + str(year) + " EXTRAÍDAS DEL DISTRITO ÚNICO ANDALUZ.\n")
         doc.write("\nLAS NOTAS GENERADAS EN ESTE INFORME PUEDEN NO COINCIDIR EXACTAMENTE CON LAS REALES.\n")
         
         #Mostramos la media y la nota de Bachillerato

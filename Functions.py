@@ -30,6 +30,13 @@ def obtener_nota_opcionales (Pond, T, nota_T, ao, notas_ao):
     
     #Eliminamos todas las asignaturas que no ponderen
     notas_pond = [x for x in notas_pond if x[1] != 0] #Eliminamos las que no ponderen
+
+    #Si Matemáticas II y Matemáticas Aplicadas ponderan 0.2, entonces eliminamos la que menos pondere
+    if((Pond["Matemáticas II"] == 0.2) and (Pond["Matemáticas Aplicadas a las CCSS"]) and (("Matemáticas II" in ao) or ("Matemáticas II" == T)) and (("Matemáticas Aplicadas a las CCSS" in ao) or ("Matemáticas Aplicadas a las CCSS" == T))):
+        for asignatura in notas_pond:
+            if((asignatura == "Matemáticas II") or (asignatura == "Matemáticas Aplicadas a las CCSS")):
+                notas_pond.remove(asignatura)
+                break
     
     #Separamos los dos mayores (2 primeros elementos)
     top2 = notas_pond[:2]
