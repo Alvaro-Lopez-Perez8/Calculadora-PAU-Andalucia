@@ -164,41 +164,39 @@ class VentanaPrincipal(QMainWindow):
     def configurar_validadores(self):
         #Esta función establece las entradas permitidas en los campos de texto
         regex_nombre = QRegularExpression(r'[^<>:"/\\|?*.]*') #Prohíbe caracteres prohibidos en Windows para nombres de archivos
-        regex_3_dec = QRegularExpression(r"^(10([.,]\d{0,3})?|[0-9]([.,]\d{0,3})?)?$") #Número de 3 decimales con coma o punto
         regex_2_dec = QRegularExpression(r"^(10([.,]\d{0,2})?|[0-9]([.,]\d{0,2})?)?$") #Número de 2 decimales con coma o punto
         
         #Configurar los validadores
         validador_nombre = QRegularExpressionValidator(regex_nombre, self)
-        validador_bach = QRegularExpressionValidator(regex_3_dec, self)
-        validador_notas = QRegularExpressionValidator(regex_2_dec, self)
+        validador_numeros = QRegularExpressionValidator(regex_2_dec, self)
         
         #Nombre
         self.ui.NombreInput.setValidator(validador_nombre)
 
         # Bachillerato
-        self.ui.Bach1Input.setValidator(validador_bach)
-        self.ui.Bach2Input.setValidator(validador_bach)
+        self.ui.Bach1Input.setValidator(validador_numeros)
+        self.ui.Bach2Input.setValidator(validador_numeros)
 
         # Fase de acceso
-        self.ui.LenguaInput.setValidator(validador_notas)
-        self.ui.HoFInput.setValidator(validador_notas)
-        self.ui.IdiomaInput.setValidator(validador_notas)
-        self.ui.TroncalInput.setValidator(validador_notas)
+        self.ui.LenguaInput.setValidator(validador_numeros)
+        self.ui.HoFInput.setValidator(validador_numeros)
+        self.ui.IdiomaInput.setValidator(validador_numeros)
+        self.ui.TroncalInput.setValidator(validador_numeros)
 
         # Fase de admisión
-        self.ui.F1OptInput.setValidator(validador_notas)
+        self.ui.F1OptInput.setValidator(validador_numeros)
 
-        self.ui.F2Opt1Input.setValidator(validador_notas)
-        self.ui.F2Opt2Input.setValidator(validador_notas)
+        self.ui.F2Opt1Input.setValidator(validador_numeros)
+        self.ui.F2Opt2Input.setValidator(validador_numeros)
 
-        self.ui.F3Opt1Input.setValidator(validador_notas)
-        self.ui.F3Opt2Input.setValidator(validador_notas)
-        self.ui.F3Opt3Input.setValidator(validador_notas)
+        self.ui.F3Opt1Input.setValidator(validador_numeros)
+        self.ui.F3Opt2Input.setValidator(validador_numeros)
+        self.ui.F3Opt3Input.setValidator(validador_numeros)
 
-        self.ui.F4Opt1Input.setValidator(validador_notas)
-        self.ui.F4Opt2Input.setValidator(validador_notas)
-        self.ui.F4Opt3Input.setValidator(validador_notas)
-        self.ui.F4Opt4Input.setValidator(validador_notas)
+        self.ui.F4Opt1Input.setValidator(validador_numeros)
+        self.ui.F4Opt2Input.setValidator(validador_numeros)
+        self.ui.F4Opt3Input.setValidator(validador_numeros)
+        self.ui.F4Opt4Input.setValidator(validador_numeros)
 
     def reconfigurar_layout(self):
         #Columnas principales del mismo tamaño (50/50)

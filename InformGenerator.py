@@ -55,7 +55,7 @@ def imprimir_informe_simple_margen (year, ponderaciones, notas_corte, carreras, 
         doc.write("\n------------------------------------------------------------\n") #Separación
         
         #Calculamos las notas obtenidas de Bachillerato y la Fase de Acceso
-        media_B = round((round(media_1B, 3) + round(media_2B, 3))/2, 3)
+        media_B = round((round(media_1B, 2) + round(media_2B, 2))/2, 2)
         nota_B = round(media_B*0.6, 3)
         media_O = round((sum(notas_o)/4), 3)
         nota_O = round((sum(notas_o)*0.1), 3)
@@ -173,7 +173,7 @@ def imprimir_informe_completo_carreras (year, ponderaciones, notas_corte, carrer
         doc.write("\nMedia de 2º de Bachillerato (2ª evaluación): " + str(media_2B))
         
         #Calculamos la media de Bachillerato
-        media_B = round((round(media_1B, 3) + round(media_2B, 3))/2, 3)
+        media_B = round((round(media_1B, 2) + round(media_2B, 2))/2, 2)
         doc.write("\n\nMedia de Bachillerato: " + str(media_B))
         
         #Calulamos la nota obtenida de Bachillerato
