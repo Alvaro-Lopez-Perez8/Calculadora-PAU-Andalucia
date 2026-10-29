@@ -78,7 +78,7 @@ def imprimir_informe_simple_margen (year, ponderaciones, notas_corte, carreras, 
             #Vamos de carrera en carrera
             for carrera in carreras:
                 #Calculamos la nota de corte para esa carrera (sumamos las ponderaciones de las asignaturas opcionales)
-                top2, nota_A, notas_pond = F.obtener_nota_opcionales(ponderaciones[carrera], T, notas_o[3], ao, notas_ao)
+                top2, nota_A, notas_pond = F.obtener_nota_opcionales(ponderaciones[carrera], T, notas_o[3], ao, notas_ao)[:3]
                 nota = round((nota_B + nota_O + nota_A), 3)
                 
                 #Guardamos la nota en un diccionario (para mostrar luego)
@@ -264,7 +264,7 @@ def imprimir_informe_completo_carreras (year, ponderaciones, notas_corte, carrer
                 doc.write("\nPara la carrera de " + carrera + ":\n")
                 
                 #Calculamos la nota de corte para esa carrera (sumamos las ponderaciones de las asignaturas opcionales)
-                top2, nota_A, notas_pond = F.obtener_nota_opcionales(ponderaciones[carrera], T, notas_o[3], ao, notas_ao)
+                top2, nota_A, notas_pond, mensaje_mates = F.obtener_nota_opcionales(ponderaciones[carrera], T, notas_o[3], ao, notas_ao)
                 nota = round((nota_B + nota_O + nota_A), 3)
                 
                 #Mostramos su nota de selectividad para la carrera
@@ -280,6 +280,9 @@ def imprimir_informe_completo_carreras (year, ponderaciones, notas_corte, carrer
                         
                         else:
                             doc.write("\n\t\tSegunda Lengua Extranjera (" + SLE + ") con ponderación " + str(ponderaciones[carrera][i]) + " y valor " + str(J) + " puntos.")
+
+                    #Si una de las matemáticas no pondera por incompatibilidad, lo mostramos
+                    doc.write(mensaje_mates)
                     
                     #Otras asignaturas que ponderan, pero no han subido nota
                     del notas_pond[:2] #Eliminamos el top2

@@ -32,10 +32,18 @@ def obtener_nota_opcionales (Pond, T, nota_T, ao, notas_ao):
     notas_pond = [x for x in notas_pond if x[1] != 0] #Eliminamos las que no ponderen
 
     #Si Matemáticas II y Matemáticas Aplicadas ponderan 0.2, entonces eliminamos la que menos pondere
-    if((Pond["Matemáticas II"] == 0.2) and (Pond["Matemáticas Aplicadas a las CCSS"]) and (("Matemáticas II" in ao) or ("Matemáticas II" == T)) and (("Matemáticas Aplicadas a las CCSS" in ao) or ("Matemáticas Aplicadas a las CCSS" == T))):
+    mensaje_mates = ""
+    mates_cursadas = [x for x in notas_pond if x[0] in ("Matemáticas II", "Matemáticas Aplicadas a las CCSS")]
+    ponderan_doble = ((Pond["Matemáticas II"] == 0.2) and (Pond["Matemáticas Aplicadas a las CCSS"] == 0.2))
+    
+    if((len(mates_cursadas) == 2) and ponderan_doble):
         for asignatura in notas_pond:
-            if((asignatura == "Matemáticas II") or (asignatura == "Matemáticas Aplicadas a las CCSS")):
-                notas_pond.remove(asignatura)
+            if((asignatura[0] == "Matemáticas II") or (asignatura[0] == "Matemáticas Aplicadas a las CCSS")):
+                #Mensaje para mostrar al usuario
+                mensaje_mates = "\n\n\t\t*AVISO. Al tener nota superior " + mates_cursadas[0][0] + ", para esta carrera no ponderará " + mates_cursadas[-1][0]
+
+                #Eliminamos la que menos nota tiene
+                notas_pond.remove(mates_cursadas[-1])
                 break
     
     #Separamos los dos mayores (2 primeros elementos)
@@ -45,7 +53,7 @@ def obtener_nota_opcionales (Pond, T, nota_T, ao, notas_ao):
     nota_ao = round(sum([x[1] for x in top2]), 3)
 
     #Devolvemos la tupla, la lista y la suma
-    return top2, nota_ao, notas_pond
+    return top2, nota_ao, notas_pond, mensaje_mates
 
 def buscar_lugar(carrera, notas_corte, nota):
     #Creeamos una lista que será la salida
